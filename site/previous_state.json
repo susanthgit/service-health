@@ -1,12 +1,5 @@
 [
   {
-    "id": "EX1276049",
-    "status": "falsePositive",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-04-10T16:16:27.223000+00:00"
-  },
-  {
     "id": "CW1276339",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -698,5 +691,12 @@
     "is_resolved": true,
     "update_count": 2,
     "last_modified": "2026-02-03T00:28:30.350000+00:00"
+  },
+  {
+    "id": "CW1224109",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 2,
+    "last_modified": "2026-01-29T14:41:20.250000+00:00"
   }
 ]
