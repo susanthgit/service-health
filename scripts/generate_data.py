@@ -91,6 +91,7 @@ def slim_issue(issue, config):
         "is_resolved": issue.get("is_resolved", False),
         "update_count": issue.get("update_count", 0),
         "change_type": issue.get("change_type"),
+        "regions": issue.get("affected_regions", []),
     }
 
 

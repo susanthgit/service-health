@@ -17,6 +17,9 @@ from pathlib import Path
 
 import requests
 
+import re
+
+
 SCRIPT_DIR = Path(__file__).parent
 SITE_DIR = SCRIPT_DIR / ".." / "site"
 RAW_DIR = SITE_DIR / "raw"
@@ -123,6 +126,40 @@ def parse_datetime(dt_str):
         return dt_str
 
 
+# Region patterns to detect in incident text
+REGION_PATTERNS = {
+    "North America": r"\bNorth America\b",
+    "South America": r"\bSouth America\b|Brazil",
+    "Europe": r"\bEurope\b|EMEA\b|European\b",
+    "Asia Pacific": r"\bAsia\b|APAC\b|Asia Pacific\b",
+    "Middle East": r"\bMiddle East\b",
+    "Africa": r"\bAfrica\b",
+    "Australia": r"\bAustralia\b|ANZ\b|Oceania\b",
+    "India": r"\bIndia\b",
+    "Japan": r"\bJapan\b",
+    "China": r"\bChina\b",
+    "UK": r"\bUnited Kingdom\b|\bUK\b",
+    "Canada": r"\bCanada\b",
+    "Germany": r"\bGermany\b",
+    "France": r"\bFrance\b",
+    "Worldwide": r"\bworldwide\b|\bglobally\b|\ball regions\b|\ball users\b",
+}
+
+
+def extract_regions(impact_text, post_texts):
+    """Extract mentioned regions from incident text using regex patterns."""
+    all_text = (impact_text or "") + " " + " ".join(post_texts or [])
+    if not all_text.strip():
+        return []
+
+    found = []
+    for region_name, pattern in REGION_PATTERNS.items():
+        if re.search(pattern, all_text, re.IGNORECASE):
+            found.append(region_name)
+
+    return found
+
+
 def normalize_issue(issue):
     """Transform a Graph API issue into our unified format."""
     posts = []
@@ -143,6 +180,12 @@ def normalize_issue(issue):
     # Sort posts chronologically
     posts.sort(key=lambda p: p["timestamp"] or "")
 
+    # Extract regions from text (impactDescription + posts)
+    regions = extract_regions(
+        issue.get("impactDescription", ""),
+        [p["content"] for p in posts],
+    )
+
     return {
         "id": issue.get("id", ""),
         "source": "graph",
@@ -153,6 +196,7 @@ def normalize_issue(issue):
         "feature": issue.get("feature", ""),
         "feature_group": issue.get("featureGroup", ""),
         "affected_services": [issue.get("service", "")] if issue.get("service") else [],
+        "affected_regions": regions,
         "start_time": parse_datetime(issue.get("startDateTime")),
         "end_time": parse_datetime(issue.get("endDateTime")),
         "last_modified": parse_datetime(issue.get("lastModifiedDateTime")),
