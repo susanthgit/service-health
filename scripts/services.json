@@ -1,0 +1,187 @@
+{
+  "display_config": {
+    "Exchange Online": {
+      "short_name": "Exchange",
+      "icon": "📧",
+      "color": "#0078D4"
+    },
+    "Microsoft Teams": {
+      "short_name": "Teams",
+      "icon": "💬",
+      "color": "#6264A7"
+    },
+    "SharePoint Online": {
+      "short_name": "SharePoint",
+      "icon": "📄",
+      "color": "#038387"
+    },
+    "Microsoft OneDrive": {
+      "short_name": "OneDrive",
+      "icon": "☁️",
+      "color": "#0078D4"
+    },
+    "Microsoft Entra": {
+      "short_name": "Entra ID",
+      "icon": "🔐",
+      "color": "#0078D4"
+    },
+    "Microsoft 365 suite": {
+      "short_name": "M365 Suite",
+      "icon": "📦",
+      "color": "#D83B01"
+    },
+    "Microsoft Copilot (Microsoft 365)": {
+      "short_name": "Copilot",
+      "icon": "🤖",
+      "color": "#6B21A8"
+    },
+    "Microsoft 365 Copilot Chat": {
+      "short_name": "Copilot Chat",
+      "icon": "💭",
+      "color": "#7C3AED"
+    },
+    "Microsoft Intune": {
+      "short_name": "Intune",
+      "icon": "📱",
+      "color": "#0078D4"
+    },
+    "Microsoft Defender XDR": {
+      "short_name": "Defender",
+      "icon": "🛡️",
+      "color": "#0078D4"
+    },
+    "Microsoft Purview": {
+      "short_name": "Purview",
+      "icon": "🔍",
+      "color": "#0078D4"
+    },
+    "Microsoft Viva": {
+      "short_name": "Viva",
+      "icon": "🌱",
+      "color": "#0078D4"
+    },
+    "Power BI": {
+      "short_name": "Power BI",
+      "icon": "📊",
+      "color": "#F2C811"
+    },
+    "Planner": {
+      "short_name": "Planner",
+      "icon": "📋",
+      "color": "#31752F"
+    },
+    "Microsoft 365 apps": {
+      "short_name": "M365 Apps",
+      "icon": "💼",
+      "color": "#D83B01"
+    },
+    "Microsoft 365 for the web": {
+      "short_name": "M365 Web",
+      "icon": "🌐",
+      "color": "#0078D4"
+    },
+    "Power Apps": {
+      "short_name": "Power Apps",
+      "icon": "⚡",
+      "color": "#742774"
+    },
+    "Microsoft Power Automate": {
+      "short_name": "Power Automate",
+      "icon": "🔄",
+      "color": "#0066FF"
+    },
+    "Microsoft Forms": {
+      "short_name": "Forms",
+      "icon": "📝",
+      "color": "#008272"
+    },
+    "Microsoft Bookings": {
+      "short_name": "Bookings",
+      "icon": "📅",
+      "color": "#0078D4"
+    },
+    "Microsoft Stream": {
+      "short_name": "Stream",
+      "icon": "🎥",
+      "color": "#BC1948"
+    },
+    "Dynamics 365 Apps": {
+      "short_name": "Dynamics",
+      "icon": "🏢",
+      "color": "#002050"
+    },
+    "Windows Autopatch": {
+      "short_name": "Autopatch",
+      "icon": "🪟",
+      "color": "#0078D4"
+    },
+    "Universal Print": {
+      "short_name": "Print",
+      "icon": "🖨️",
+      "color": "#0078D4"
+    },
+    "Sway": {
+      "short_name": "Sway",
+      "icon": "🎨",
+      "color": "#008272"
+    },
+    "Project for the web": {
+      "short_name": "Project",
+      "icon": "📐",
+      "color": "#31752F"
+    },
+    "Microsoft Clipchamp ": {
+      "short_name": "Clipchamp",
+      "icon": "🎬",
+      "color": "#7B2D8B"
+    },
+    "Power Platform": {
+      "short_name": "Power Platform",
+      "icon": "⚙️",
+      "color": "#742774"
+    },
+    "Basic Mobility and Security": {
+      "short_name": "Basic MDM",
+      "icon": "📲",
+      "color": "#0078D4"
+    },
+    "Power Apps in Microsoft 365": {
+      "short_name": "Power Apps (M365)",
+      "icon": "⚡",
+      "color": "#742774"
+    },
+    "Microsoft Power Automate in Microsoft 365": {
+      "short_name": "Automate (M365)",
+      "icon": "🔄",
+      "color": "#0066FF"
+    },
+    "Microsoft Copilot (Power Platform)": {
+      "short_name": "Copilot (PP)",
+      "icon": "🤖",
+      "color": "#742774"
+    }
+  },
+  "default_display": {
+    "icon": "⚙️",
+    "color": "#6B7280"
+  },
+  "status_map": {
+    "serviceOperational": { "label": "Operational", "icon": "✅", "color": "#22C55E", "severity": 0 },
+    "investigating": { "label": "Investigating", "icon": "🔍", "color": "#EAB308", "severity": 2 },
+    "restoringService": { "label": "Restoring", "icon": "🔧", "color": "#F97316", "severity": 2 },
+    "verifyingService": { "label": "Verifying", "icon": "🔎", "color": "#EAB308", "severity": 1 },
+    "serviceRestored": { "label": "Restored", "icon": "✅", "color": "#22C55E", "severity": 0 },
+    "postIncidentReviewPublished": { "label": "PIR Published", "icon": "📋", "color": "#22C55E", "severity": 0 },
+    "serviceDegradation": { "label": "Degraded", "icon": "⚠️", "color": "#EAB308", "severity": 1 },
+    "serviceInterruption": { "label": "Outage", "icon": "🔴", "color": "#EF4444", "severity": 3 },
+    "extendedRecovery": { "label": "Extended Recovery", "icon": "🔧", "color": "#F97316", "severity": 2 },
+    "falsePositive": { "label": "False Positive", "icon": "❌", "color": "#6B7280", "severity": 0 },
+    "investigationSuspended": { "label": "Suspended", "icon": "⏸️", "color": "#6B7280", "severity": 0 },
+    "resolved": { "label": "Resolved", "icon": "✅", "color": "#22C55E", "severity": 0 },
+    "mitigatedExternal": { "label": "Mitigated", "icon": "✅", "color": "#22C55E", "severity": 0 },
+    "mitigated": { "label": "Mitigated", "icon": "✅", "color": "#22C55E", "severity": 0 },
+    "resolvedExternal": { "label": "Resolved", "icon": "✅", "color": "#22C55E", "severity": 0 },
+    "confirmed": { "label": "Confirmed", "icon": "⚠️", "color": "#EAB308", "severity": 1 },
+    "reported": { "label": "Reported", "icon": "📢", "color": "#EAB308", "severity": 1 }
+  }
+}
