@@ -17,11 +17,12 @@ from xml.sax.saxutils import escape as xml_escape
 SCRIPT_DIR = Path(__file__).parent
 SITE_DIR = SCRIPT_DIR / ".." / "site"
 RAW_FILE = SITE_DIR / "raw" / "health.json"
+AZURE_RAW_FILE = SITE_DIR / "raw" / "azure.json"
 SERVICES_FILE = SCRIPT_DIR / "services.json"
 ARCHIVE_DIR = SITE_DIR / "archive"
 INCIDENTS_DIR = SITE_DIR / "incidents"
 
-LATEST_INCIDENTS_COUNT = 150
+LATEST_INCIDENTS_COUNT = 200
 RSS_ITEMS_COUNT = 50
 
 
@@ -399,7 +400,28 @@ def main():
     config = load_services_config()
 
     issues = data.get("issues", [])
-    print(f"📋 {len(issues)} issues to process")
+    print(f"📋 {len(issues)} M365 issues loaded")
+
+    # Merge Azure incidents if available
+    if AZURE_RAW_FILE.exists():
+        try:
+            with open(AZURE_RAW_FILE, "r", encoding="utf-8") as f:
+                azure_data = json.load(f)
+            azure_issues = azure_data.get("incidents", [])
+            if azure_issues:
+                # Avoid duplicates by ID
+                existing_ids = {i["id"] for i in issues}
+                new_azure = [i for i in azure_issues if i["id"] not in existing_ids]
+                issues.extend(new_azure)
+                data["issues"] = issues
+                data["total_issues"] = len(issues)
+                print(f"☁️  {len(new_azure)} Azure incidents merged (total: {len(issues)})")
+        except (json.JSONDecodeError, KeyError) as e:
+            print(f"  ⚠️ Could not load Azure data: {e}")
+    else:
+        print("  ℹ️  No Azure data found (optional)")
+
+    print(f"📋 {len(issues)} total issues to process")
 
     # 1. Generate latest.json
     print("\n📅 Latest:")

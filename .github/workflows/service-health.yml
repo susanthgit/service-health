@@ -41,6 +41,9 @@ jobs:
           export GRAPH_TOKEN=$(az account get-access-token --resource https://graph.microsoft.com --query accessToken -o tsv)
           python scripts/fetch_health.py
 
+      - name: ☁️ Fetch Azure Status history
+        run: python scripts/fetch_azure.py
+
       - name: 📊 Generate data files
         run: python scripts/generate_data.py
 

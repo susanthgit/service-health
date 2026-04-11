@@ -140,6 +140,11 @@
       "icon": "⚙️",
       "color": "#742774"
     },
+    "Azure": {
+      "short_name": "Azure",
+      "icon": "☁️",
+      "color": "#0078D4"
+    },
     "Basic Mobility and Security": {
       "short_name": "Basic MDM",
       "icon": "📲",
