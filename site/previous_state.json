@@ -3,8 +3,8 @@
     "id": "IT1279031",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-04-13T20:31:11.167000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-04-13T21:47:32.103000+00:00"
   },
   {
     "id": "EX1278714",
@@ -115,8 +115,8 @@
     "id": "IT1272653",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 13,
-    "last_modified": "2026-04-10T20:00:40.997000+00:00"
+    "update_count": 14,
+    "last_modified": "2026-04-13T21:08:28.540000+00:00"
   },
   {
     "id": "MV1269743",
