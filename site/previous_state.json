@@ -15,10 +15,10 @@
   },
   {
     "id": "CP1277749",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 10,
-    "last_modified": "2026-04-14T12:59:02.067000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 11,
+    "last_modified": "2026-04-14T16:41:03.070000+00:00"
   },
   {
     "id": "CW1276339",
@@ -33,6 +33,13 @@
     "is_resolved": true,
     "update_count": 5,
     "last_modified": "2026-04-08T19:17:59.270000+00:00"
+  },
+  {
+    "id": "MO1279825",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 1,
+    "last_modified": "2026-04-14T16:53:53.890000+00:00"
   },
   {
     "id": "MO1273099",
@@ -691,12 +698,5 @@
     "is_resolved": false,
     "update_count": 9,
     "last_modified": "2026-04-06T22:13:25.837000+00:00"
-  },
-  {
-    "id": "MO1231021",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-02-14T02:58:32.620000+00:00"
   }
 ]
