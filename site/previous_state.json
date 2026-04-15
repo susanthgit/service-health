@@ -66,8 +66,8 @@
     "id": "EX1275040",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 11,
-    "last_modified": "2026-04-15T20:26:15.693000+00:00"
+    "update_count": 12,
+    "last_modified": "2026-04-15T22:13:13.517000+00:00"
   },
   {
     "id": "MO1274150",
@@ -325,8 +325,8 @@
     "id": "CP1253444",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 28,
-    "last_modified": "2026-04-15T20:06:11.930000+00:00"
+    "update_count": 29,
+    "last_modified": "2026-04-15T22:19:04.007000+00:00"
   },
   {
     "id": "MO1253428",
