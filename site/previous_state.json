@@ -18,7 +18,7 @@
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 4,
-    "last_modified": "2026-04-16T18:47:27.900000+00:00"
+    "last_modified": "2026-04-16T21:51:08.563000+00:00"
   },
   {
     "id": "IT1281088",
@@ -80,8 +80,8 @@
     "id": "EX1275040",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 13,
-    "last_modified": "2026-04-16T19:07:59.163000+00:00"
+    "update_count": 14,
+    "last_modified": "2026-04-16T22:46:21.960000+00:00"
   },
   {
     "id": "MO1274150",
