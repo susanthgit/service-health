@@ -123,7 +123,7 @@
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
     "update_count": 8,
-    "last_modified": "2026-04-14T00:04:32.777000+00:00"
+    "last_modified": "2026-04-16T17:15:20.560000+00:00"
   },
   {
     "id": "CP1273314",
@@ -155,10 +155,10 @@
   },
   {
     "id": "EX1268771",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 8,
-    "last_modified": "2026-04-14T18:48:08.293000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 9,
+    "last_modified": "2026-04-16T17:17:30.573000+00:00"
   },
   {
     "id": "MO1268822",
