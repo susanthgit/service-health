@@ -24,8 +24,8 @@
     "id": "CP1281119",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-04-17T04:07:12.590000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-04-17T08:58:48.077000+00:00"
   },
   {
     "id": "IT1281088",
@@ -39,7 +39,7 @@
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 4,
-    "last_modified": "2026-04-16T20:13:15.043000+00:00"
+    "last_modified": "2026-04-17T08:27:39.550000+00:00"
   },
   {
     "id": "CP1280167",
