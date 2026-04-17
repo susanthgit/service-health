@@ -81,14 +81,7 @@ jobs:
           git diff --cached --quiet || git commit -m "🏥 Service health data update — $(date -u +%Y-%m-%dT%H:%M)"
           git push
 
-      - name: 🚀 Deploy main website
-        run: |
-          wget -q https://github.com/gohugoio/hugo/releases/download/v0.159.1/hugo_extended_0.159.1_linux-amd64.tar.gz -O /tmp/hugo.tar.gz
-          tar -xzf /tmp/hugo.tar.gz -C /tmp hugo
-          cd /tmp/main-site
-          /tmp/hugo --minify
-          npm install -g @azure/static-web-apps-cli --quiet 2>/dev/null
-          swa deploy /tmp/main-site/public --deployment-token ${{ secrets.MAIN_SITE_SWA_TOKEN }} --env production
+      # Git push above triggers Cloudflare Pages auto-build — no manual deploy needed
 
   notify-on-failure:
     runs-on: ubuntu-latest
