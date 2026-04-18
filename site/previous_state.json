@@ -71,10 +71,10 @@
   },
   {
     "id": "EX1280216",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-04-16T10:44:55.773000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 5,
+    "last_modified": "2026-04-18T11:57:17.333000+00:00"
   },
   {
     "id": "EX1278714",
