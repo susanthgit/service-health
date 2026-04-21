@@ -1,10 +1,10 @@
 [
   {
     "id": "CP1286586",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-04-21T05:52:55.923000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-04-21T06:23:16.500000+00:00"
   },
   {
     "id": "IT1286314",
