@@ -59,8 +59,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_PAT }}
         run: |
-          git clone https://github.com/susanthgit/aguidetocloud-revamp.git /tmp/main-site
-          git -C /tmp/main-site config http.https://github.com/.extraheader "Authorization: bearer ${GH_TOKEN}"
+          git clone https://x-access-token:${GH_TOKEN}@github.com/susanthgit/aguidetocloud-revamp.git /tmp/main-site
           mkdir -p /tmp/main-site/static/data/service-health
           mkdir -p /tmp/main-site/static/data/service-health/archive
           mkdir -p /tmp/main-site/static/data/service-health/incidents
@@ -98,4 +97,3 @@ jobs:
             --repo susanthgit/service-health \
             --title "🚨 Service health pipeline failed — $(date -u +%Y-%m-%d)" \
             --body "The service health workflow failed. Check the [workflow run](https://github.com/susanthgit/service-health/actions) for details." \
-            --label "bug"
