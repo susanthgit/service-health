@@ -45,8 +45,8 @@
     "id": "MO1281730",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 8,
-    "last_modified": "2026-04-21T11:22:49.750000+00:00"
+    "update_count": 9,
+    "last_modified": "2026-04-23T23:48:41.970000+00:00"
   },
   {
     "id": "IT1281088",
@@ -73,8 +73,8 @@
     "id": "EX1279815",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-04-22T20:43:23.257000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-04-24T01:07:36.827000+00:00"
   },
   {
     "id": "UP1287359",
