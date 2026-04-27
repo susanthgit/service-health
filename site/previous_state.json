@@ -87,8 +87,8 @@
     "id": "EX1279815",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 8,
-    "last_modified": "2026-04-27T16:40:10.970000+00:00"
+    "update_count": 9,
+    "last_modified": "2026-04-27T22:51:54.223000+00:00"
   },
   {
     "id": "EX1280763",
@@ -500,8 +500,8 @@
     "id": "PB1286292",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-04-24T21:37:12.693000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-04-27T21:17:40.550000+00:00"
   },
   {
     "id": "CW1247849",
