@@ -112,6 +112,13 @@
     "last_modified": "2026-04-27T15:42:31.167000+00:00"
   },
   {
+    "id": "EX1281449",
+    "status": "restoringService",
+    "is_resolved": false,
+    "update_count": 15,
+    "last_modified": "2026-04-28T05:24:20.067000+00:00"
+  },
+  {
     "id": "IT1281212",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 5,
     "last_modified": "2026-02-20T15:44:26.040000+00:00"
-  },
-  {
-    "id": "MV1231713",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-02-13T18:42:06.033000+00:00"
   }
 ]
