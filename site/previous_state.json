@@ -94,8 +94,8 @@
     "id": "EX1279815",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 9,
-    "last_modified": "2026-04-27T22:51:54.223000+00:00"
+    "update_count": 10,
+    "last_modified": "2026-04-28T18:43:49.117000+00:00"
   },
   {
     "id": "EX1280763",
@@ -108,8 +108,8 @@
     "id": "UP1287359",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-04-28T14:52:39.320000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-04-28T19:45:42.723000+00:00"
   },
   {
     "id": "EX1281449",
