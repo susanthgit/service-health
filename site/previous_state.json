@@ -1,5 +1,12 @@
 [
   {
+    "id": "DZ1299600",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 1,
+    "last_modified": "2026-05-03T16:51:37.967000+00:00"
+  },
+  {
     "id": "MO1298081",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -38,8 +45,8 @@
     "id": "IT1298282",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-05-03T02:23:31.403000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-05-03T15:30:46.050000+00:00"
   },
   {
     "id": "CP1293524",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 8,
     "last_modified": "2026-03-30T22:43:14.767000+00:00"
-  },
-  {
-    "id": "CP1237705",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-02-25T23:19:06.073000+00:00"
   }
 ]
