@@ -1,10 +1,10 @@
 [
   {
     "id": "DZ1299600",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-05-03T21:36:13.803000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-05-04T01:07:48.180000+00:00"
   },
   {
     "id": "MO1298081",
@@ -45,8 +45,8 @@
     "id": "IT1298282",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-05-03T15:30:46.050000+00:00"
+    "update_count": 9,
+    "last_modified": "2026-05-04T03:18:48.750000+00:00"
   },
   {
     "id": "CP1293524",
