@@ -567,13 +567,6 @@
     "last_modified": "2026-03-31T21:10:42.447000+00:00"
   },
   {
-    "id": "EX1254044",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 15,
-    "last_modified": "2026-05-05T10:53:47.927000+00:00"
-  },
-  {
     "id": "DZ1249914",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -663,6 +656,13 @@
     "is_resolved": true,
     "update_count": 6,
     "last_modified": "2026-03-16T17:43:47.997000+00:00"
+  },
+  {
+    "id": "EX1254044",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 16,
+    "last_modified": "2026-05-07T13:38:04.847000+00:00"
   },
   {
     "id": "SP1242132",
