@@ -1,5 +1,12 @@
 [
   {
+    "id": "CP1307847",
+    "status": "investigating",
+    "is_resolved": false,
+    "update_count": 1,
+    "last_modified": "2026-05-11T20:44:52.403000+00:00"
+  },
+  {
     "id": "DZ1304997",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 4,
     "last_modified": "2026-03-02T04:54:13.067000+00:00"
-  },
-  {
-    "id": "SP1240323",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 6,
-    "last_modified": "2026-03-16T17:43:47.997000+00:00"
   }
 ]
