@@ -3,15 +3,15 @@
     "id": "DZ1304997",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-05-10T14:12:00.870000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-05-11T14:12:43.130000+00:00"
   },
   {
     "id": "EX1304825",
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 6,
-    "last_modified": "2026-05-11T12:08:04.233000+00:00"
+    "last_modified": "2026-05-11T14:42:23.487000+00:00"
   },
   {
     "id": "CP1304233",
