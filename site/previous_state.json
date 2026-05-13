@@ -1,10 +1,10 @@
 [
   {
     "id": "MO1309330",
-    "status": "investigating",
+    "status": "restoringService",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-05-13T15:01:05.800000+00:00"
+    "update_count": 8,
+    "last_modified": "2026-05-13T17:38:22.173000+00:00"
   },
   {
     "id": "MO1308654",
