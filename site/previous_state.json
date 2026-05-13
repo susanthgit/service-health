@@ -1,17 +1,24 @@
 [
   {
+    "id": "MO1309601",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 2,
+    "last_modified": "2026-05-13T19:46:19.513000+00:00"
+  },
+  {
     "id": "MO1309330",
-    "status": "restoringService",
-    "is_resolved": false,
-    "update_count": 8,
-    "last_modified": "2026-05-13T17:38:22.173000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 11,
+    "last_modified": "2026-05-13T20:04:01.933000+00:00"
   },
   {
     "id": "MO1308654",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-05-12T18:22:16.880000+00:00"
+    "update_count": 2,
+    "last_modified": "2026-05-13T18:32:17.257000+00:00"
   },
   {
     "id": "EX1307899",
@@ -127,10 +134,10 @@
   },
   {
     "id": "CW1300750",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-05-07T18:41:56.290000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-05-13T19:13:43.063000+00:00"
   },
   {
     "id": "IT1298282",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 8,
     "last_modified": "2026-03-17T16:10:34.700000+00:00"
-  },
-  {
-    "id": "EX1259159",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 6,
-    "last_modified": "2026-03-24T03:27:25.713000+00:00"
   }
 ]
