@@ -1,10 +1,10 @@
 [
   {
     "id": "CW1314072",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-05-17T22:19:12.693000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-05-18T02:51:19.853000+00:00"
   },
   {
     "id": "CP1312096",
