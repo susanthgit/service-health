@@ -3,15 +3,15 @@
     "id": "CP1315061",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-05-18T20:53:35.117000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-05-18T22:31:42.370000+00:00"
   },
   {
     "id": "PB1314779",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 9,
-    "last_modified": "2026-05-18T20:54:15.847000+00:00"
+    "update_count": 11,
+    "last_modified": "2026-05-18T21:58:12.413000+00:00"
   },
   {
     "id": "CW1314072",
