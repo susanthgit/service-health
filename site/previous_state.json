@@ -1,12 +1,5 @@
 [
   {
-    "id": "OP1315796",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-05-19T12:46:54.897000+00:00"
-  },
-  {
     "id": "PB1314779",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -110,6 +103,13 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-05-12T21:40:05.103000+00:00"
+  },
+  {
+    "id": "OP1315796",
+    "status": "falsePositive",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-05-19T14:34:13.180000+00:00"
   },
   {
     "id": "DZ1304997",
