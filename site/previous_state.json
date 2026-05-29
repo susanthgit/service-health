@@ -322,6 +322,13 @@
     "last_modified": "2026-05-22T19:01:13.943000+00:00"
   },
   {
+    "id": "WP1290574",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-04-25T01:47:33.280000+00:00"
+  },
+  {
     "id": "MP1290422",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -355,6 +362,13 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-04-21T06:23:16.500000+00:00"
+  },
+  {
+    "id": "WP1289588",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-04-24T01:39:57.557000+00:00"
   },
   {
     "id": "MO1297751",
@@ -672,31 +686,17 @@
     "last_modified": "2026-04-01T14:12:50.217000+00:00"
   },
   {
+    "id": "WP1262624",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 2,
+    "last_modified": "2026-03-27T01:36:09.070000+00:00"
+  },
+  {
     "id": "CP1262553",
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-03-30T16:55:59.170000+00:00"
-  },
-  {
-    "id": "EX1260260",
-    "status": "investigationSuspended",
-    "is_resolved": true,
-    "update_count": 11,
-    "last_modified": "2026-04-14T19:17:35.747000+00:00"
-  },
-  {
-    "id": "EX1260428",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 2,
-    "last_modified": "2026-03-24T15:44:00.930000+00:00"
-  },
-  {
-    "id": "DZ1266872",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 6,
-    "last_modified": "2026-04-13T20:32:10.330000+00:00"
   }
 ]
