@@ -1,5 +1,12 @@
 [
   {
+    "id": "EX1327187",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 1,
+    "last_modified": "2026-05-30T09:13:46.043000+00:00"
+  },
+  {
     "id": "PB1326495",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 2,
     "last_modified": "2026-04-15T16:01:32.403000+00:00"
-  },
-  {
-    "id": "SP1280824",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 5,
-    "last_modified": "2026-04-15T17:04:47.507000+00:00"
   }
 ]
