@@ -1,17 +1,17 @@
 [
   {
-    "id": "CP1328187",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-05-31T09:14:58.077000+00:00"
-  },
-  {
     "id": "EX1327187",
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 4,
     "last_modified": "2026-05-30T18:41:42.360000+00:00"
+  },
+  {
+    "id": "CP1328187",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 3,
+    "last_modified": "2026-05-31T09:55:00.680000+00:00"
   },
   {
     "id": "PB1326495",
