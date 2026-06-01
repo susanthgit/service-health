@@ -4,7 +4,7 @@
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 6,
-    "last_modified": "2026-06-01T17:55:31.750000+00:00"
+    "last_modified": "2026-06-01T18:18:44.697000+00:00"
   },
   {
     "id": "MO1329446",
@@ -241,8 +241,8 @@
     "id": "EX1310533",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 12,
-    "last_modified": "2026-05-29T20:26:43.777000+00:00"
+    "update_count": 13,
+    "last_modified": "2026-06-01T19:26:05.463000+00:00"
   },
   {
     "id": "CP1307847",
