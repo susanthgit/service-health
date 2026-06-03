@@ -1,24 +1,24 @@
 [
   {
     "id": "CP1332829",
-    "status": "investigating",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-06-02T23:32:32.760000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-06-03T02:21:21.943000+00:00"
   },
   {
     "id": "MO1332784",
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 4,
-    "last_modified": "2026-06-02T23:34:56.670000+00:00"
+    "last_modified": "2026-06-03T00:04:23.763000+00:00"
   },
   {
     "id": "CP1331875",
     "status": "falsePositive",
     "is_resolved": true,
     "update_count": 3,
-    "last_modified": "2026-06-02T17:27:47.390000+00:00"
+    "last_modified": "2026-06-03T04:13:40.823000+00:00"
   },
   {
     "id": "MO1331639",
@@ -85,10 +85,10 @@
   },
   {
     "id": "CP1326225",
-    "status": "serviceRestored",
+    "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 7,
-    "last_modified": "2026-05-29T18:51:53.740000+00:00"
+    "update_count": 9,
+    "last_modified": "2026-06-03T00:21:36.153000+00:00"
   },
   {
     "id": "EX1322762",
