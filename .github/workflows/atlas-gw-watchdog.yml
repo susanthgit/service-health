@@ -1,0 +1,42 @@
+name: atlas-gw watchdog
+on:
+  schedule:
+    - cron: '*/5 * * * *'    # every 5 minutes — counter-trigger for MCAPSGov nightly deallocate
+  workflow_dispatch: {}      # manual trigger for testing
+
+permissions:
+  contents: read
+  issues: write              # so we can open a tracking issue on persistent failure
+
+concurrency:
+  group: atlas-gw-watchdog
+  cancel-in-progress: false
+
+jobs:
+  check:
+    name: probe + heal
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      AZURE_CLIENT_ID:       ${{ secrets.AZURE_CLIENT_ID }}
+      AZURE_CLIENT_SECRET:   ${{ secrets.AZURE_CLIENT_SECRET }}
+      AZURE_TENANT_ID:       ${{ secrets.AZURE_TENANT_ID }}
+      AZURE_SUBSCRIPTION_ID: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+      NTFY_TOPIC:            ${{ secrets.NTFY_TOPIC }}
+      RG:                    rg-atlas-gateway-prod
+      VM:                    vm-atlas-gw-01
+      HEALTH_URL:            https://atlas-gw.aguidetocloud.com/health
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Azure login (Atlas-Gateway-Deployer SP)
+        run: |
+          az login --service-principal \
+            --username "$AZURE_CLIENT_ID" \
+            --password "$AZURE_CLIENT_SECRET" \
+            --tenant "$AZURE_TENANT_ID" >/dev/null
+          az account set --subscription "$AZURE_SUBSCRIPTION_ID"
+          echo "logged in as: $(az account show --query user.name -o tsv)"
+
+      - name: Run watchdog
+        run: bash tooling/atlas-gw-watchdog/scripts/watchdog.sh
