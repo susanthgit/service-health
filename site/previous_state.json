@@ -1,12 +1,5 @@
 [
   {
-    "id": "CW1352001",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-06-04T22:16:42.370000+00:00"
-  },
-  {
     "id": "MO1338742",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -47,6 +40,13 @@
     "is_resolved": true,
     "update_count": 7,
     "last_modified": "2026-06-03T23:49:27.933000+00:00"
+  },
+  {
+    "id": "CW1352001",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 5,
+    "last_modified": "2026-06-05T16:55:05.417000+00:00"
   },
   {
     "id": "MO1329446",
@@ -94,8 +94,8 @@
     "id": "CP1326225",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 9,
-    "last_modified": "2026-06-03T00:21:36.153000+00:00"
+    "update_count": 10,
+    "last_modified": "2026-06-05T17:26:00.143000+00:00"
   },
   {
     "id": "DZ1333265",
@@ -283,8 +283,8 @@
     "id": "EX1310533",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 16,
-    "last_modified": "2026-06-04T19:28:58.477000+00:00"
+    "update_count": 17,
+    "last_modified": "2026-06-05T18:59:17.920000+00:00"
   },
   {
     "id": "CP1307847",
