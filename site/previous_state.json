@@ -1,10 +1,24 @@
 [
   {
+    "id": "MO1387691",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-06-11T22:06:46.807000+00:00"
+  },
+  {
+    "id": "CW1387674",
+    "status": "falsePositive",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-06-11T21:36:02.533000+00:00"
+  },
+  {
     "id": "CP1387482",
-    "status": "investigating",
+    "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-06-11T17:31:38.427000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-06-11T22:16:23.513000+00:00"
   },
   {
     "id": "EX1387205",
@@ -31,22 +45,22 @@
     "id": "MO1385610",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-06-10T20:46:31.600000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-06-11T21:57:51.997000+00:00"
   },
   {
     "id": "CP1386444",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-06-11T18:11:17.640000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 6,
+    "last_modified": "2026-06-11T22:19:13.237000+00:00"
   },
   {
     "id": "CW1386443",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-06-11T18:11:10.640000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-06-11T22:18:20.533000+00:00"
   },
   {
     "id": "MO1338742",
@@ -684,19 +698,5 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-04-17T21:01:38.483000+00:00"
-  },
-  {
-    "id": "EX1275040",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 17,
-    "last_modified": "2026-04-17T17:21:19.773000+00:00"
-  },
-  {
-    "id": "MO1274150",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 5,
-    "last_modified": "2026-04-08T19:17:59.270000+00:00"
   }
 ]
