@@ -1,0 +1,95 @@
+name: 🧹 Cleanup — close stale matching issues
+
+# One-off cleanup tool. Manual-trigger only. Closes all open issues whose
+# title contains the given search phrase, optionally posting a comment first.
+#
+# Use case: bulk-close legacy duplicate failure-notification issues after
+# the underlying class bug is fixed (per the 2026-06-11 incident — 36 dupes
+# from the notify-on-failure step before fingerprint-rolling was adopted).
+#
+# Safe to re-run — no-op if no matching open issues.
+
+on:
+  workflow_dispatch:
+    inputs:
+      title_phrase:
+        description: 'Phrase to match in issue titles (exact substring, GH search syntax). Example: Service health pipeline failed'
+        required: true
+        type: string
+        default: 'Service health pipeline failed'
+      comment:
+        description: 'Optional comment to post on each issue before close. Leave blank for close-only.'
+        required: false
+        type: string
+        default: ''
+      reason:
+        description: 'Close reason'
+        required: false
+        type: choice
+        options:
+          - completed
+          - not_planned
+        default: completed
+      dry_run:
+        description: 'Dry run (list only, no close)'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: List + close matching issues
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PHRASE: ${{ inputs.title_phrase }}
+          COMMENT: ${{ inputs.comment }}
+          REASON: ${{ inputs.reason }}
+          DRY: ${{ inputs.dry_run }}
+        run: |
+          set -euo pipefail
+          echo "Search phrase: $PHRASE"
+          echo "Dry run:       $DRY"
+          echo ""
+
+          NUMBERS=$(gh issue list --repo "$GITHUB_REPOSITORY" \
+            --state open \
+            --search "in:title \"$PHRASE\"" \
+            --limit 200 \
+            --json number \
+            --jq '.[].number')
+
+          if [ -z "$NUMBERS" ]; then
+            echo "No matching open issues. Nothing to do."
+            exit 0
+          fi
+
+          COUNT=$(echo "$NUMBERS" | wc -l)
+          echo "Found $COUNT matching open issue(s):"
+          echo "$NUMBERS" | sed 's/^/  #/'
+          echo ""
+
+          if [ "$DRY" = "true" ]; then
+            echo "DRY RUN — exiting without changes"
+            exit 0
+          fi
+
+          CLOSED=0
+          for n in $NUMBERS; do
+            if [ -n "$COMMENT" ]; then
+              gh issue comment "$n" --repo "$GITHUB_REPOSITORY" --body "$COMMENT"
+            fi
+            gh issue close "$n" --repo "$GITHUB_REPOSITORY" --reason "$REASON"
+            CLOSED=$((CLOSED + 1))
+            if [ $((CLOSED % 10)) -eq 0 ]; then
+              echo "  ...closed $CLOSED"
+            fi
+          done
+          echo ""
+          echo "✅ Closed $CLOSED issue(s)"
