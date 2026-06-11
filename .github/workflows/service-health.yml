@@ -82,6 +82,12 @@ jobs:
 
       # Git push above triggers Cloudflare Pages auto-build — no manual deploy needed
 
+  # ── On failure: open/comment on issue (de-dup) instead of new issue every run ──
+  # Same pattern as aguidetocloud-revamp/.github/workflows/realtime-probe.yml +
+  # pipeline-freshness-watchdog.yml. Previously created a NEW issue every 2h
+  # failure (10 issues in 3 days on 2026-06-09 → 11 → spammed Gmail). Now:
+  # find existing open `pipeline-broken` issue → comment if present,
+  # create-once if absent. notify-on-recovery closes the issue on first success.
   notify-on-failure:
     runs-on: ubuntu-latest
     permissions:
@@ -89,11 +95,82 @@ jobs:
     needs: fetch-and-deploy
     if: failure()
     steps:
-      - name: 🚨 Create failure issue
+      - name: 🔎 Find existing open issue
+        id: find
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_PAT }}
         run: |
+          set +e
+          EXISTING=$(gh issue list \
+            --repo susanthgit/service-health \
+            --state open \
+            --label pipeline-broken \
+            --json number \
+            --jq '.[0].number // empty')
+          if [ -n "$EXISTING" ]; then
+            echo "existing=$EXISTING" >> "$GITHUB_OUTPUT"
+            echo "Found existing issue #$EXISTING — will comment, not create"
+          else
+            echo "existing=" >> "$GITHUB_OUTPUT"
+            echo "No open issue — will create one"
+          fi
+
+      - name: 💬 Comment on existing issue
+        if: steps.find.outputs.existing != ''
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_PAT }}
+          ISSUE: ${{ steps.find.outputs.existing }}
+        run: |
+          TS=$(date -u +'%Y-%m-%d %H:%M UTC')
+          gh issue comment "$ISSUE" \
+            --repo susanthgit/service-health \
+            --body "🔴 Still failing as of $TS. [Run](https://github.com/susanthgit/service-health/actions/runs/${{ github.run_id }})"
+
+      - name: 🚨 Open new issue
+        if: steps.find.outputs.existing == ''
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_PAT }}
+        run: |
+          gh label create pipeline-broken \
+            --repo susanthgit/service-health \
+            --color FF0000 \
+            --description "Service health pipeline failing" 2>/dev/null || true
+          TS=$(date -u +'%Y-%m-%d %H:%M UTC')
           gh issue create \
             --repo susanthgit/service-health \
-            --title "🚨 Service health pipeline failed — $(date -u +%Y-%m-%d)" \
-            --body "The service health workflow failed. Check the [workflow run](https://github.com/susanthgit/service-health/actions) for details." \
+            --label pipeline-broken \
+            --title "🚨 Service health pipeline failing" \
+            --body "The service health workflow is failing. This issue auto-updates with each failure and auto-closes on recovery.
+
+          **First detected:** $TS
+          **Latest run:** https://github.com/susanthgit/service-health/actions/runs/${{ github.run_id }}"
+
+  # ── On recovery: close any open pipeline-broken issues ──
+  notify-on-recovery:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    needs: fetch-and-deploy
+    if: success()
+    steps:
+      - name: 🟢 Close open pipeline-broken issues
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_PAT }}
+        run: |
+          ISSUES=$(gh issue list \
+            --repo susanthgit/service-health \
+            --state open \
+            --label pipeline-broken \
+            --json number \
+            --jq '.[].number')
+          if [ -z "$ISSUES" ]; then
+            echo "No open issues to close — nothing to do"
+            exit 0
+          fi
+          TS=$(date -u +'%Y-%m-%d %H:%M UTC')
+          for N in $ISSUES; do
+            gh issue comment "$N" --repo susanthgit/service-health \
+              --body "🟢 Pipeline recovered at $TS. [Recovery run](https://github.com/susanthgit/service-health/actions/runs/${{ github.run_id }})"
+            gh issue close "$N" --repo susanthgit/service-health --reason completed
+            echo "Closed #$N"
+          done
