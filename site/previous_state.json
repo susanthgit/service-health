@@ -1,10 +1,10 @@
 [
   {
     "id": "MO1388943",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-06-12T21:57:45.070000+00:00"
+    "status": "falsePositive",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-06-13T21:45:15.863000+00:00"
   },
   {
     "id": "MO1387691",
