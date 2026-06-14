@@ -81,14 +81,7 @@
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 2,
-    "last_modified": "2026-06-14T19:43:52.250000+00:00"
-  },
-  {
-    "id": "MO1388943",
-    "status": "falsePositive",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-06-14T19:44:30.530000+00:00"
+    "last_modified": "2026-06-14T19:51:37.067000+00:00"
   },
   {
     "id": "CP1332783",
@@ -698,5 +691,12 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-04-17T21:01:38.483000+00:00"
+  },
+  {
+    "id": "EX1275040",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 17,
+    "last_modified": "2026-04-17T17:21:19.773000+00:00"
   }
 ]
