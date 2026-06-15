@@ -1,5 +1,12 @@
 [
   {
+    "id": "CW1391746",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 11,
+    "last_modified": "2026-06-15T12:32:27.320000+00:00"
+  },
+  {
     "id": "CP1390337",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-04-17T21:01:38.483000+00:00"
-  },
-  {
-    "id": "EX1275040",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 17,
-    "last_modified": "2026-04-17T17:21:19.773000+00:00"
   }
 ]
