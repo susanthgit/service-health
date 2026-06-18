@@ -59,8 +59,8 @@
     "id": "MO1387691",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 4,
-    "last_modified": "2026-06-15T23:43:58.900000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-06-18T15:10:56.063000+00:00"
   },
   {
     "id": "CP1387482",
@@ -355,6 +355,13 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-05-18T20:38:43.127000+00:00"
+  },
+  {
+    "id": "DZ1395542",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 2,
+    "last_modified": "2026-06-18T14:17:33.517000+00:00"
   },
   {
     "id": "MO1309330",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 8,
     "last_modified": "2026-04-27T17:58:59.430000+00:00"
-  },
-  {
-    "id": "UP1287359",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 9,
-    "last_modified": "2026-05-08T20:25:03.477000+00:00"
   }
 ]
