@@ -3,8 +3,8 @@
     "id": "EX1394927",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 10,
-    "last_modified": "2026-06-19T13:57:51.897000+00:00"
+    "update_count": 11,
+    "last_modified": "2026-06-19T17:33:44.843000+00:00"
   },
   {
     "id": "PB1394805",
@@ -45,8 +45,8 @@
     "id": "IT1396117",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-06-19T05:27:02.107000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-06-19T15:50:45.383000+00:00"
   },
   {
     "id": "MV1392264",
