@@ -1,5 +1,12 @@
 [
   {
+    "id": "EX1394927",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 9,
+    "last_modified": "2026-06-19T07:38:15.557000+00:00"
+  },
+  {
     "id": "PB1394805",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -17,8 +24,8 @@
     "id": "SP1393483",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-06-18T10:10:31.567000+00:00"
+    "update_count": 6,
+    "last_modified": "2026-06-19T09:51:54.683000+00:00"
   },
   {
     "id": "CW1395054",
@@ -38,8 +45,8 @@
     "id": "IT1396117",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-06-19T02:55:31.067000+00:00"
+    "update_count": 6,
+    "last_modified": "2026-06-19T05:27:02.107000+00:00"
   },
   {
     "id": "MV1392264",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 5,
     "last_modified": "2026-05-23T23:22:32.797000+00:00"
-  },
-  {
-    "id": "EX1279815",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 10,
-    "last_modified": "2026-04-28T18:43:49.117000+00:00"
   }
 ]
