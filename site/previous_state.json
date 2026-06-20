@@ -50,10 +50,10 @@
   },
   {
     "id": "IT1396117",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-06-19T15:50:45.383000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 8,
+    "last_modified": "2026-06-20T19:06:25.397000+00:00"
   },
   {
     "id": "MV1392264",
