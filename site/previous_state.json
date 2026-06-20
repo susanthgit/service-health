@@ -1,5 +1,12 @@
 [
   {
+    "id": "MP1397605",
+    "status": "investigating",
+    "is_resolved": false,
+    "update_count": 1,
+    "last_modified": "2026-06-20T00:08:04.157000+00:00"
+  },
+  {
     "id": "PB1394805",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 2,
     "last_modified": "2026-04-15T00:40:25.903000+00:00"
-  },
-  {
-    "id": "IT1319078",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 5,
-    "last_modified": "2026-05-23T23:22:32.797000+00:00"
   }
 ]
