@@ -22,10 +22,10 @@
   },
   {
     "id": "EX1394927",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 14,
-    "last_modified": "2026-06-20T13:32:42.830000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 15,
+    "last_modified": "2026-06-20T16:30:46.600000+00:00"
   },
   {
     "id": "SP1393483",
