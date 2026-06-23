@@ -1,10 +1,10 @@
 [
   {
     "id": "PB1402061",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-06-23T15:58:38.813000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-06-23T17:07:51.747000+00:00"
   },
   {
     "id": "MO1400794",
@@ -101,8 +101,8 @@
     "id": "CP1387482",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 8,
-    "last_modified": "2026-06-22T19:00:20.507000+00:00"
+    "update_count": 9,
+    "last_modified": "2026-06-23T18:13:53.310000+00:00"
   },
   {
     "id": "DZ1392272",
