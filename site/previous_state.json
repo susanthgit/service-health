@@ -32,7 +32,7 @@
     "status": "falsePositive",
     "is_resolved": true,
     "update_count": 2,
-    "last_modified": "2026-06-26T16:16:34.073000+00:00"
+    "last_modified": "2026-06-26T16:46:03.390000+00:00"
   },
   {
     "id": "MP1394693",
@@ -108,8 +108,8 @@
     "id": "CP1387482",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 13,
-    "last_modified": "2026-06-25T17:55:56.580000+00:00"
+    "update_count": 14,
+    "last_modified": "2026-06-26T17:52:00.380000+00:00"
   },
   {
     "id": "DZ1392272",
