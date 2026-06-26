@@ -1,5 +1,19 @@
 [
   {
+    "id": "OD1405074",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 2,
+    "last_modified": "2026-06-26T15:03:16.247000+00:00"
+  },
+  {
+    "id": "SP1405058",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-06-26T15:03:13.630000+00:00"
+  },
+  {
     "id": "PB1402061",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -15,10 +29,10 @@
   },
   {
     "id": "PB1394805",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-06-17T18:51:09.900000+00:00"
+    "status": "falsePositive",
+    "is_resolved": true,
+    "update_count": 2,
+    "last_modified": "2026-06-26T16:16:34.073000+00:00"
   },
   {
     "id": "MP1394693",
@@ -684,19 +698,5 @@
     "is_resolved": true,
     "update_count": 9,
     "last_modified": "2026-04-23T23:48:41.970000+00:00"
-  },
-  {
-    "id": "IT1281088",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 4,
-    "last_modified": "2026-04-15T20:01:52.813000+00:00"
-  },
-  {
-    "id": "EX1318421",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 9,
-    "last_modified": "2026-06-05T21:29:12.950000+00:00"
   }
 ]
