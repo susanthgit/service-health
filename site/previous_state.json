@@ -1,10 +1,10 @@
 [
   {
     "id": "CP1409187",
-    "status": "investigating",
+    "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 2,
-    "last_modified": "2026-06-29T20:30:22.593000+00:00"
+    "last_modified": "2026-06-29T22:05:59.910000+00:00"
   },
   {
     "id": "CW1409007",
