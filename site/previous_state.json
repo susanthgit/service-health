@@ -1,12 +1,5 @@
 [
   {
-    "id": "CP1409288",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-06-30T06:10:17.943000+00:00"
-  },
-  {
     "id": "CP1409187",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -47,6 +40,13 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-06-26T15:03:13.630000+00:00"
+  },
+  {
+    "id": "CP1409288",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 7,
+    "last_modified": "2026-06-30T11:29:05.260000+00:00"
   },
   {
     "id": "PB1402061",
