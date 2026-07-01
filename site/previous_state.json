@@ -1,5 +1,12 @@
 [
   {
+    "id": "MO1410980",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 1,
+    "last_modified": "2026-07-01T09:35:37.730000+00:00"
+  },
+  {
     "id": "DZ1410811",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 4,
     "last_modified": "2026-04-24T01:39:57.557000+00:00"
-  },
-  {
-    "id": "MO1297751",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 13,
-    "last_modified": "2026-05-11T18:50:43.157000+00:00"
   }
 ]
