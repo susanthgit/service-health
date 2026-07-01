@@ -15,10 +15,10 @@
   },
   {
     "id": "EX1409958",
-    "status": "restoringService",
-    "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-06-30T21:53:12.860000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 5,
+    "last_modified": "2026-07-01T21:18:05.553000+00:00"
   },
   {
     "id": "CP1409187",
