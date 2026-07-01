@@ -1,10 +1,10 @@
 [
   {
-    "id": "WP1410526",
-    "status": "investigating",
+    "id": "DZ1410811",
+    "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 1,
-    "last_modified": "2026-06-30T23:03:54.533000+00:00"
+    "last_modified": "2026-07-01T04:17:37.010000+00:00"
   },
   {
     "id": "EX1409958",
@@ -17,8 +17,8 @@
     "id": "CP1409187",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-06-30T21:15:41.507000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-07-01T00:52:45.003000+00:00"
   },
   {
     "id": "CW1409007",
@@ -173,6 +173,13 @@
     "is_resolved": true,
     "update_count": 7,
     "last_modified": "2026-06-11T22:18:20.533000+00:00"
+  },
+  {
+    "id": "WP1410526",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 2,
+    "last_modified": "2026-06-30T23:42:54.953000+00:00"
   },
   {
     "id": "SP1386381",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 13,
     "last_modified": "2026-05-11T18:50:43.157000+00:00"
-  },
-  {
-    "id": "CP1283380",
-    "status": "postIncidentReviewPublished",
-    "is_resolved": true,
-    "update_count": 7,
-    "last_modified": "2026-04-24T22:04:14.997000+00:00"
   }
 ]
