@@ -24,8 +24,8 @@
     "id": "CP1409187",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-07-01T00:52:45.003000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-07-01T19:17:18.343000+00:00"
   },
   {
     "id": "CW1409007",
@@ -52,8 +52,8 @@
     "id": "CP1410413",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-06-30T22:37:31.327000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-07-01T19:32:38.510000+00:00"
   },
   {
     "id": "CP1409288",
