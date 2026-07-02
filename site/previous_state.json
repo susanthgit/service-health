@@ -3,8 +3,8 @@
     "id": "CP1412052",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-07-02T15:23:52.690000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-07-02T17:27:24.463000+00:00"
   },
   {
     "id": "MO1411776",
@@ -66,8 +66,8 @@
     "id": "CP1410413",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-07-01T19:32:38.510000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-07-02T17:31:19.003000+00:00"
   },
   {
     "id": "CP1409288",
