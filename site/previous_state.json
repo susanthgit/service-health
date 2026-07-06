@@ -7,6 +7,13 @@
     "last_modified": "2026-07-03T05:10:34.807000+00:00"
   },
   {
+    "id": "CP1412506",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 6,
+    "last_modified": "2026-07-06T14:51:26.487000+00:00"
+  },
+  {
     "id": "CP1412052",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-04-29T20:14:52.193000+00:00"
-  },
-  {
-    "id": "CW1293760",
-    "status": "postIncidentReviewPublished",
-    "is_resolved": true,
-    "update_count": 7,
-    "last_modified": "2026-05-06T19:10:26.707000+00:00"
   }
 ]
