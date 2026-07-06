@@ -78,10 +78,10 @@
   },
   {
     "id": "CP1410413",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-07-02T17:31:19.003000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 5,
+    "last_modified": "2026-07-06T17:38:08.187000+00:00"
   },
   {
     "id": "CP1409288",
