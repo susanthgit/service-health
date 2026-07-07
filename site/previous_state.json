@@ -85,10 +85,10 @@
   },
   {
     "id": "CP1409288",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 9,
-    "last_modified": "2026-06-30T20:11:53.347000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 10,
+    "last_modified": "2026-07-07T19:40:00.483000+00:00"
   },
   {
     "id": "PB1402061",
