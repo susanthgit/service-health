@@ -1,5 +1,12 @@
 [
   {
+    "id": "MO1421789",
+    "status": "investigating",
+    "is_resolved": false,
+    "update_count": 1,
+    "last_modified": "2026-07-09T18:02:14.967000+00:00"
+  },
+  {
     "id": "CW1420563",
     "status": "investigationSuspended",
     "is_resolved": true,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 6,
     "last_modified": "2026-05-22T19:01:13.943000+00:00"
-  },
-  {
-    "id": "DZ1304997",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 12,
-    "last_modified": "2026-06-07T16:04:22.907000+00:00"
   }
 ]
