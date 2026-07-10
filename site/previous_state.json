@@ -14,6 +14,13 @@
     "last_modified": "2026-07-10T05:09:23.297000+00:00"
   },
   {
+    "id": "MO1420954",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 4,
+    "last_modified": "2026-07-10T11:11:49.590000+00:00"
+  },
+  {
     "id": "CW1420563",
     "status": "investigationSuspended",
     "is_resolved": true,
@@ -112,13 +119,6 @@
     "last_modified": "2026-07-06T17:38:08.187000+00:00"
   },
   {
-    "id": "TM1402778",
-    "status": "restoringService",
-    "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-07-06T19:57:33.010000+00:00"
-  },
-  {
     "id": "CP1409288",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -131,6 +131,13 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-06-23T17:07:51.747000+00:00"
+  },
+  {
+    "id": "TM1402778",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-07-10T09:39:27.627000+00:00"
   },
   {
     "id": "MP1397605",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 2,
     "last_modified": "2026-04-28T16:48:24.203000+00:00"
-  },
-  {
-    "id": "CP1293219",
-    "status": "postIncidentReviewPublished",
-    "is_resolved": true,
-    "update_count": 7,
-    "last_modified": "2026-05-05T07:36:03.510000+00:00"
   }
 ]
