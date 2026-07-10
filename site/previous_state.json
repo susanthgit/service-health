@@ -17,8 +17,8 @@
     "id": "MO1420954",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-07-10T11:11:49.590000+00:00"
+    "update_count": 8,
+    "last_modified": "2026-07-10T14:23:24.977000+00:00"
   },
   {
     "id": "CW1420563",
@@ -137,7 +137,7 @@
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 7,
-    "last_modified": "2026-07-10T09:39:27.627000+00:00"
+    "last_modified": "2026-07-10T12:18:13.840000+00:00"
   },
   {
     "id": "MP1397605",
