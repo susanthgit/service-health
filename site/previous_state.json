@@ -7,6 +7,13 @@
     "last_modified": "2026-07-14T10:40:17.453000+00:00"
   },
   {
+    "id": "EX1426511",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 4,
+    "last_modified": "2026-07-14T16:18:53.280000+00:00"
+  },
+  {
     "id": "EX1427120",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-05-12T18:00:56.193000+00:00"
-  },
-  {
-    "id": "MV1300072",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-05-04T06:14:58.783000+00:00"
   }
 ]
