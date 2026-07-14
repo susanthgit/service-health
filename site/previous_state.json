@@ -17,8 +17,8 @@
     "id": "EX1426934",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-07-14T20:51:10.670000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-07-14T21:29:36.117000+00:00"
   },
   {
     "id": "OD1424850",
@@ -64,10 +64,10 @@
   },
   {
     "id": "MO1420954",
-    "status": "serviceRestored",
+    "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 13,
-    "last_modified": "2026-07-13T20:04:41.753000+00:00"
+    "update_count": 14,
+    "last_modified": "2026-07-14T21:55:36.170000+00:00"
   },
   {
     "id": "MO1413447",
