@@ -15,10 +15,10 @@
   },
   {
     "id": "EX1426934",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-07-15T03:09:34.677000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 6,
+    "last_modified": "2026-07-15T05:58:44.380000+00:00"
   },
   {
     "id": "OD1424850",
