@@ -1,10 +1,17 @@
 [
   {
+    "id": "CP1431319",
+    "status": "investigating",
+    "is_resolved": false,
+    "update_count": 2,
+    "last_modified": "2026-07-17T20:36:52.170000+00:00"
+  },
+  {
     "id": "IT1431093",
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 3,
-    "last_modified": "2026-07-17T16:48:08.040000+00:00"
+    "last_modified": "2026-07-17T19:37:21.547000+00:00"
   },
   {
     "id": "CP1430786",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 2,
     "last_modified": "2026-05-05T21:41:00.997000+00:00"
-  },
-  {
-    "id": "EX1304825",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 8,
-    "last_modified": "2026-05-12T01:30:58.640000+00:00"
   }
 ]
