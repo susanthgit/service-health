@@ -8,17 +8,17 @@
   },
   {
     "id": "CP1430786",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-07-17T17:05:30.763000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 6,
+    "last_modified": "2026-07-17T17:21:31.283000+00:00"
   },
   {
     "id": "CP1429838",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-07-17T15:16:59.463000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-07-17T19:05:51.960000+00:00"
   },
   {
     "id": "CP1428746",
@@ -31,8 +31,8 @@
     "id": "EX1428537",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-07-16T22:03:48.773000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-07-17T18:19:38.487000+00:00"
   },
   {
     "id": "EX1427120",
