@@ -84,13 +84,6 @@
     "last_modified": "2026-07-15T17:04:04.690000+00:00"
   },
   {
-    "id": "EX1428537",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-07-20T17:37:34.770000+00:00"
-  },
-  {
     "id": "IT1431577",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -117,6 +110,13 @@
     "is_resolved": false,
     "update_count": 3,
     "last_modified": "2026-07-12T11:42:14.477000+00:00"
+  },
+  {
+    "id": "EX1428537",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 6,
+    "last_modified": "2026-07-22T15:22:05.803000+00:00"
   },
   {
     "id": "CP1425545",
