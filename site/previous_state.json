@@ -1,5 +1,12 @@
 [
   {
+    "id": "TM1437339",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 4,
+    "last_modified": "2026-07-23T13:11:44.447000+00:00"
+  },
+  {
     "id": "CW1436954",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 14,
     "last_modified": "2026-05-29T23:31:49.400000+00:00"
-  },
-  {
-    "id": "OP1310599",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-05-14T21:43:38.927000+00:00"
   }
 ]
