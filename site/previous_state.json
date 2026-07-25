@@ -11,14 +11,7 @@
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 2,
-    "last_modified": "2026-07-24T22:25:00.730000+00:00"
-  },
-  {
-    "id": "IT1438439",
-    "status": "falsePositive",
-    "is_resolved": true,
-    "update_count": 2,
-    "last_modified": "2026-07-24T19:35:23.987000+00:00"
+    "last_modified": "2026-07-25T19:02:49.977000+00:00"
   },
   {
     "id": "MO1437790",
@@ -698,5 +691,12 @@
     "is_resolved": true,
     "update_count": 11,
     "last_modified": "2026-05-21T17:43:41.737000+00:00"
+  },
+  {
+    "id": "CW1310341",
+    "status": "postIncidentReviewPublished",
+    "is_resolved": true,
+    "update_count": 6,
+    "last_modified": "2026-05-21T23:14:50.697000+00:00"
   }
 ]
