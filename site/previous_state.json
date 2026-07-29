@@ -92,10 +92,10 @@
   },
   {
     "id": "MO1434392",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-07-24T04:06:45.940000+00:00"
+    "status": "investigationSuspended",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-07-29T00:26:35.170000+00:00"
   },
   {
     "id": "CP1432638",
