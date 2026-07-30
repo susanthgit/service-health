@@ -80,8 +80,8 @@
     "id": "MO1437424",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 13,
-    "last_modified": "2026-07-27T22:53:46.680000+00:00"
+    "update_count": 14,
+    "last_modified": "2026-07-30T18:58:54.573000+00:00"
   },
   {
     "id": "CW1436954",
@@ -92,10 +92,10 @@
   },
   {
     "id": "MO1442357",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-07-29T17:49:59.217000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-07-30T18:01:45.057000+00:00"
   },
   {
     "id": "MO1438482",
@@ -332,8 +332,8 @@
     "id": "TM1440450",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-07-30T00:06:22.730000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-07-30T19:14:16.547000+00:00"
   },
   {
     "id": "EX1409958",
