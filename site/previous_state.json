@@ -274,10 +274,10 @@
   },
   {
     "id": "IT1446841",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-08-04T01:53:12.133000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-08-04T04:55:02.440000+00:00"
   },
   {
     "id": "CP1434578",
