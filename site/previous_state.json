@@ -3,15 +3,15 @@
     "id": "MO1447619",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-08-04T23:01:12.257000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-08-05T03:22:19.030000+00:00"
   },
   {
     "id": "CP1447275",
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 4,
-    "last_modified": "2026-08-04T17:50:38.497000+00:00"
+    "last_modified": "2026-08-04T23:27:58.827000+00:00"
   },
   {
     "id": "MV1444510",
