@@ -29,17 +29,17 @@
   },
   {
     "id": "CP1447620",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-08-05T04:31:00.573000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 2,
+    "last_modified": "2026-08-05T17:41:03.700000+00:00"
   },
   {
     "id": "CW1447067",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-08-04T22:09:39.870000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-08-05T17:41:13.160000+00:00"
   },
   {
     "id": "TM1444037",
