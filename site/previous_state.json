@@ -1,5 +1,12 @@
 [
   {
+    "id": "CP1449264",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 2,
+    "last_modified": "2026-08-07T02:40:20.870000+00:00"
+  },
+  {
     "id": "TM1448902",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -127,10 +134,10 @@
   },
   {
     "id": "AH1449067",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-08-07T00:05:53.040000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-08-07T02:00:57.667000+00:00"
   },
   {
     "id": "MO1437790",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 5,
     "last_modified": "2026-06-05T16:55:05.417000+00:00"
-  },
-  {
-    "id": "MO1329446",
-    "status": "postIncidentReviewPublished",
-    "is_resolved": true,
-    "update_count": 7,
-    "last_modified": "2026-06-17T15:23:04.713000+00:00"
   }
 ]
