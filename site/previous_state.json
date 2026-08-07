@@ -29,10 +29,10 @@
   },
   {
     "id": "TM1450072",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-08-07T20:45:57.073000+00:00"
+    "status": "falsePositive",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-08-07T22:31:37.717000+00:00"
   },
   {
     "id": "MV1444510",
