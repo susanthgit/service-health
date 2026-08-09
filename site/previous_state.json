@@ -28,6 +28,13 @@
     "last_modified": "2026-08-04T23:27:58.827000+00:00"
   },
   {
+    "id": "PB1451187",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 3,
+    "last_modified": "2026-08-09T10:06:07.637000+00:00"
+  },
+  {
     "id": "MV1444510",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 8,
     "last_modified": "2026-06-08T22:14:08.310000+00:00"
-  },
-  {
-    "id": "CW1352001",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 5,
-    "last_modified": "2026-06-05T16:55:05.417000+00:00"
   }
 ]
