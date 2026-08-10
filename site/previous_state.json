@@ -29,10 +29,10 @@
   },
   {
     "id": "PB1451187",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-08-09T21:18:25.763000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-08-09T23:22:05.723000+00:00"
   },
   {
     "id": "MV1444510",
