@@ -24,8 +24,8 @@
     "id": "TM1452993",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-08-11T20:04:40.027000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-08-11T21:03:26.333000+00:00"
   },
   {
     "id": "TM1451939",
@@ -38,8 +38,8 @@
     "id": "MO1452280",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-08-10T20:48:24.953000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-08-11T21:24:15.030000+00:00"
   },
   {
     "id": "MP1452564",
