@@ -120,15 +120,15 @@
   },
   {
     "id": "MP1440966",
-    "status": "investigating",
-    "is_resolved": false,
+    "status": "investigationSuspended",
+    "is_resolved": true,
     "update_count": 1,
     "last_modified": "2026-07-27T22:53:00.903000+00:00"
   },
   {
     "id": "MP1440962",
-    "status": "investigating",
-    "is_resolved": false,
+    "status": "investigationSuspended",
+    "is_resolved": true,
     "update_count": 1,
     "last_modified": "2026-07-27T22:48:24.870000+00:00"
   },
