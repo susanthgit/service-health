@@ -4,7 +4,7 @@
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 3,
-    "last_modified": "2026-08-13T17:00:41.557000+00:00"
+    "last_modified": "2026-08-13T18:12:29.277000+00:00"
   },
   {
     "id": "TM1453149",
@@ -479,8 +479,8 @@
     "id": "TM1440450",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-07-30T19:14:16.547000+00:00"
+    "update_count": 8,
+    "last_modified": "2026-08-13T18:57:23.697000+00:00"
   },
   {
     "id": "EX1409958",
