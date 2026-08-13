@@ -1,17 +1,17 @@
 [
   {
-    "id": "TM1453882",
-    "status": "investigating",
-    "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-08-13T05:22:26.473000+00:00"
-  },
-  {
     "id": "TM1453149",
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-08-12T01:33:44.347000+00:00"
+  },
+  {
+    "id": "TM1453882",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-08-13T09:18:40.790000+00:00"
   },
   {
     "id": "TM1452695",
