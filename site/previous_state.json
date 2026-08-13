@@ -15,10 +15,10 @@
   },
   {
     "id": "TM1452993",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-08-12T01:35:46.377000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-08-13T00:36:30.557000+00:00"
   },
   {
     "id": "TM1451939",
@@ -29,10 +29,10 @@
   },
   {
     "id": "MO1452280",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-08-12T16:39:38.167000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 5,
+    "last_modified": "2026-08-13T00:41:16.297000+00:00"
   },
   {
     "id": "MP1452564",
