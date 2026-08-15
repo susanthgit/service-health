@@ -8,10 +8,10 @@
   },
   {
     "id": "CW1454295",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 9,
-    "last_modified": "2026-08-14T22:01:38.283000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 11,
+    "last_modified": "2026-08-15T01:32:12.807000+00:00"
   },
   {
     "id": "CP1454166",
