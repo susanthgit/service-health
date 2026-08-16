@@ -36,10 +36,10 @@
   },
   {
     "id": "TM1452695",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-08-11T12:38:44.867000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-08-16T13:05:48.277000+00:00"
   },
   {
     "id": "TM1452993",
