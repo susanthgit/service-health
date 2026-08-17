@@ -1,12 +1,5 @@
 [
   {
-    "id": "CP1456526",
-    "status": "investigating",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-08-17T15:35:29.493000+00:00"
-  },
-  {
     "id": "MO1456424",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -514,8 +507,8 @@
     "id": "TM1440450",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 9,
-    "last_modified": "2026-08-14T19:15:14.157000+00:00"
+    "update_count": 10,
+    "last_modified": "2026-08-17T18:40:23.357000+00:00"
   },
   {
     "id": "EX1409958",
@@ -698,5 +691,12 @@
     "is_resolved": true,
     "update_count": 5,
     "last_modified": "2026-06-16T13:06:38.650000+00:00"
+  },
+  {
+    "id": "MO1385610",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 5,
+    "last_modified": "2026-06-13T14:59:33.683000+00:00"
   }
 ]
