@@ -3,8 +3,8 @@
     "id": "EX1456866",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-08-18T03:41:55.803000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-08-18T06:48:28.763000+00:00"
   },
   {
     "id": "MO1456424",
@@ -17,8 +17,8 @@
     "id": "OP1454727",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-08-14T16:00:46.833000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-08-18T05:00:52.063000+00:00"
   },
   {
     "id": "CW1454295",
