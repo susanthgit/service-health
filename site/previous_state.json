@@ -1,10 +1,10 @@
 [
   {
     "id": "MO1457636",
-    "status": "investigating",
-    "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-08-19T14:41:01.903000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 5,
+    "last_modified": "2026-08-19T15:52:07.360000+00:00"
   },
   {
     "id": "TM1457081",
@@ -99,10 +99,10 @@
   },
   {
     "id": "MP1452564",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-08-17T15:52:41.440000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-08-19T16:17:08.990000+00:00"
   },
   {
     "id": "CP1449264",
