@@ -1,5 +1,12 @@
 [
   {
+    "id": "OP1457784",
+    "status": "investigating",
+    "is_resolved": false,
+    "update_count": 1,
+    "last_modified": "2026-08-19T20:17:41.430000+00:00"
+  },
+  {
     "id": "MO1457636",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 23,
     "last_modified": "2026-06-22T13:28:57.547000+00:00"
-  },
-  {
-    "id": "MO1387691",
-    "status": "postIncidentReviewPublished",
-    "is_resolved": true,
-    "update_count": 5,
-    "last_modified": "2026-06-18T15:10:56.063000+00:00"
   }
 ]
