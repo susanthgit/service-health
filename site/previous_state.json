@@ -21,13 +21,6 @@
     "last_modified": "2026-08-19T15:52:07.360000+00:00"
   },
   {
-    "id": "TM1457081",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-08-20T13:17:12.583000+00:00"
-  },
-  {
     "id": "EX1456866",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -68,6 +61,13 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-08-13T18:12:29.277000+00:00"
+  },
+  {
+    "id": "TM1457081",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 8,
+    "last_modified": "2026-08-20T17:26:40.377000+00:00"
   },
   {
     "id": "TM1453149",
