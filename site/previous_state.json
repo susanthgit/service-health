@@ -43,10 +43,10 @@
   },
   {
     "id": "MO1456424",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-08-18T03:41:11.443000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-08-21T03:46:17.143000+00:00"
   },
   {
     "id": "OP1454727",
