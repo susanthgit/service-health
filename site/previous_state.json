@@ -78,10 +78,10 @@
   },
   {
     "id": "DZ1459263",
-    "status": "investigating",
+    "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-08-22T03:33:08.923000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-08-22T05:02:00.583000+00:00"
   },
   {
     "id": "CW1454295",
