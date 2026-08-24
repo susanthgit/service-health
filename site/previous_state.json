@@ -1,10 +1,17 @@
 [
   {
+    "id": "OP1460815",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 2,
+    "last_modified": "2026-08-24T14:40:03.660000+00:00"
+  },
+  {
     "id": "TM1460590",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-08-24T09:02:40.487000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-08-24T14:00:11.423000+00:00"
   },
   {
     "id": "TM1459181",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 7,
     "last_modified": "2026-07-13T18:19:20.523000+00:00"
-  },
-  {
-    "id": "MP1397605",
-    "status": "investigationSuspended",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-08-01T01:18:05.930000+00:00"
   }
 ]
