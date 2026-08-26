@@ -3,8 +3,8 @@
     "id": "DZ1462187",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-08-26T14:14:33.733000+00:00"
+    "update_count": 2,
+    "last_modified": "2026-08-26T15:41:59.087000+00:00"
   },
   {
     "id": "TM1461801",
@@ -66,8 +66,8 @@
     "id": "MO1458983",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-08-25T15:56:45.347000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-08-26T15:33:13.610000+00:00"
   },
   {
     "id": "CP1458544",
@@ -262,8 +262,8 @@
     "id": "PB1461484",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-08-25T15:37:18.217000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-08-26T16:16:03.013000+00:00"
   },
   {
     "id": "PB1451187",
