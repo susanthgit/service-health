@@ -21,13 +21,6 @@
     "last_modified": "2026-08-26T03:26:28.053000+00:00"
   },
   {
-    "id": "SP1461217",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 12,
-    "last_modified": "2026-08-26T05:45:51.307000+00:00"
-  },
-  {
     "id": "CW1461372",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -82,6 +75,13 @@
     "is_resolved": false,
     "update_count": 8,
     "last_modified": "2026-08-25T20:54:12.917000+00:00"
+  },
+  {
+    "id": "SP1461217",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 13,
+    "last_modified": "2026-08-26T09:31:34.030000+00:00"
   },
   {
     "id": "OP1459987",
