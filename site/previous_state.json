@@ -4,7 +4,7 @@
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 4,
-    "last_modified": "2026-08-26T02:54:14.427000+00:00"
+    "last_modified": "2026-08-26T04:34:57.287000+00:00"
   },
   {
     "id": "SP1461655",
@@ -17,8 +17,8 @@
     "id": "SP1461580",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-08-25T23:26:19.287000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-08-26T03:26:28.053000+00:00"
   },
   {
     "id": "SP1461217",
