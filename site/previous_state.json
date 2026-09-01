@@ -1,5 +1,12 @@
 [
   {
+    "id": "CP1465477",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 2,
+    "last_modified": "2026-09-01T11:23:18.483000+00:00"
+  },
+  {
     "id": "MO1465286",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -17,22 +24,22 @@
     "id": "EX1464935",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 17,
-    "last_modified": "2026-09-01T03:52:06.527000+00:00"
+    "update_count": 24,
+    "last_modified": "2026-09-01T10:58:06.620000+00:00"
   },
   {
     "id": "MO1465074",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 13,
-    "last_modified": "2026-09-01T03:49:40.887000+00:00"
+    "update_count": 20,
+    "last_modified": "2026-09-01T10:58:15.680000+00:00"
   },
   {
     "id": "IT1464731",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-08-31T18:14:58.877000+00:00"
+    "update_count": 8,
+    "last_modified": "2026-09-01T09:11:54.063000+00:00"
   },
   {
     "id": "PB1464659",
@@ -47,13 +54,6 @@
     "is_resolved": true,
     "update_count": 2,
     "last_modified": "2026-08-31T19:02:38.167000+00:00"
-  },
-  {
-    "id": "DZ1463442",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-08-30T05:27:16.550000+00:00"
   },
   {
     "id": "SP1464785",
@@ -220,8 +220,8 @@
     "id": "OP1454727",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-08-25T05:57:38.630000+00:00"
+    "update_count": 8,
+    "last_modified": "2026-09-01T05:58:26.140000+00:00"
   },
   {
     "id": "MP1460870",
@@ -306,6 +306,13 @@
     "is_resolved": false,
     "update_count": 12,
     "last_modified": "2026-08-25T03:44:23.913000+00:00"
+  },
+  {
+    "id": "DZ1463442",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-09-01T05:33:56.237000+00:00"
   },
   {
     "id": "MO1452280",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 4,
     "last_modified": "2026-08-04T04:55:02.440000+00:00"
-  },
-  {
-    "id": "CP1434578",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-07-23T23:06:42.873000+00:00"
   }
 ]
