@@ -1,5 +1,12 @@
 [
   {
+    "id": "TM1466224",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 3,
+    "last_modified": "2026-09-02T20:54:00.673000+00:00"
+  },
+  {
     "id": "CP1465967",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -31,8 +38,8 @@
     "id": "MO1465286",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-09-01T16:29:09.887000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-09-02T16:36:52.637000+00:00"
   },
   {
     "id": "MV1465260",
@@ -45,15 +52,15 @@
     "id": "EX1464935",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 36,
-    "last_modified": "2026-09-02T16:22:25.163000+00:00"
+    "update_count": 39,
+    "last_modified": "2026-09-02T20:31:46.173000+00:00"
   },
   {
     "id": "MO1465074",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 32,
-    "last_modified": "2026-09-02T16:21:00.597000+00:00"
+    "update_count": 36,
+    "last_modified": "2026-09-02T20:03:04.760000+00:00"
   },
   {
     "id": "IT1464731",
@@ -150,8 +157,8 @@
     "id": "SP1464785",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-09-01T18:05:23.687000+00:00"
+    "update_count": 8,
+    "last_modified": "2026-09-02T17:55:53.827000+00:00"
   },
   {
     "id": "TM1459181",
@@ -185,8 +192,8 @@
     "id": "SP1461217",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 14,
-    "last_modified": "2026-08-28T12:15:49.063000+00:00"
+    "update_count": 15,
+    "last_modified": "2026-09-02T18:30:25.870000+00:00"
   },
   {
     "id": "OP1459987",
@@ -451,8 +458,8 @@
     "id": "TM1462514",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-08-27T16:27:31.640000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-09-02T20:06:54.043000+00:00"
   },
   {
     "id": "MO1441391",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-07-12T11:42:14.477000+00:00"
-  },
-  {
-    "id": "EX1428537",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 6,
-    "last_modified": "2026-07-22T15:22:05.803000+00:00"
   }
 ]
