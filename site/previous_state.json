@@ -38,8 +38,8 @@
     "id": "MO1465286",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-09-02T16:36:52.637000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-09-03T00:32:38.417000+00:00"
   },
   {
     "id": "MV1465260",
@@ -52,15 +52,15 @@
     "id": "EX1464935",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 40,
-    "last_modified": "2026-09-02T22:00:23.627000+00:00"
+    "update_count": 42,
+    "last_modified": "2026-09-03T02:16:05.143000+00:00"
   },
   {
     "id": "MO1465074",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 37,
-    "last_modified": "2026-09-02T22:00:45.297000+00:00"
+    "update_count": 39,
+    "last_modified": "2026-09-03T02:21:18.910000+00:00"
   },
   {
     "id": "IT1464731",
@@ -514,8 +514,8 @@
     "id": "TM1437780",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 9,
-    "last_modified": "2026-08-28T01:16:07.587000+00:00"
+    "update_count": 10,
+    "last_modified": "2026-09-03T02:45:12.780000+00:00"
   },
   {
     "id": "MO1437424",
