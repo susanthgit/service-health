@@ -1,17 +1,17 @@
 [
   {
     "id": "TM1466659",
-    "status": "investigating",
-    "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-09-03T20:13:51.060000+00:00"
-  },
-  {
-    "id": "CW1466621",
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 3,
-    "last_modified": "2026-09-03T20:46:40.283000+00:00"
+    "last_modified": "2026-09-03T21:28:52.047000+00:00"
+  },
+  {
+    "id": "CW1466621",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-09-03T21:06:05.823000+00:00"
   },
   {
     "id": "CP1465967",
@@ -178,8 +178,8 @@
     "id": "TM1459181",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-08-28T19:33:49.890000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-09-03T21:00:17.067000+00:00"
   },
   {
     "id": "CP1458413",
