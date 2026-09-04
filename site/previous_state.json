@@ -1,5 +1,12 @@
 [
   {
+    "id": "EX1467029",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 3,
+    "last_modified": "2026-09-04T11:03:51.290000+00:00"
+  },
+  {
     "id": "CP1466822",
     "status": "serviceDegradation",
     "is_resolved": false,
@@ -11,7 +18,7 @@
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 3,
-    "last_modified": "2026-09-03T21:28:52.047000+00:00"
+    "last_modified": "2026-09-04T04:38:46.473000+00:00"
   },
   {
     "id": "CW1466621",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 10,
     "last_modified": "2026-07-24T21:37:11.763000+00:00"
-  },
-  {
-    "id": "CP1428746",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 2,
-    "last_modified": "2026-07-15T17:04:04.690000+00:00"
   }
 ]
