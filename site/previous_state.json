@@ -73,15 +73,15 @@
     "id": "CP1465967",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-09-08T12:03:24.550000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-09-10T10:50:09.373000+00:00"
   },
   {
     "id": "EX1465910",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 8,
-    "last_modified": "2026-09-08T07:12:40.407000+00:00"
+    "update_count": 10,
+    "last_modified": "2026-09-10T10:55:19.370000+00:00"
   },
   {
     "id": "MO1465962",
