@@ -17,8 +17,8 @@
     "id": "MO1469836",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-09-09T18:11:19.417000+00:00"
+    "update_count": 2,
+    "last_modified": "2026-09-10T17:34:55.890000+00:00"
   },
   {
     "id": "MO1469271",
@@ -122,15 +122,15 @@
     "id": "EX1464935",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 53,
-    "last_modified": "2026-09-08T09:34:59.043000+00:00"
+    "update_count": 55,
+    "last_modified": "2026-09-10T17:28:26.083000+00:00"
   },
   {
     "id": "MO1465074",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 50,
-    "last_modified": "2026-09-08T09:35:25.090000+00:00"
+    "update_count": 52,
+    "last_modified": "2026-09-10T17:28:10.940000+00:00"
   },
   {
     "id": "IT1464731",
