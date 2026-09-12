@@ -24,8 +24,8 @@
     "id": "MO1469836",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-09-10T17:34:55.890000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-09-11T21:37:55.670000+00:00"
   },
   {
     "id": "MO1469271",
@@ -654,8 +654,8 @@
     "id": "CW1470765",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-09-11T20:48:31.557000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-09-11T22:27:43.337000+00:00"
   },
   {
     "id": "MO1442357",
