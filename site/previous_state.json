@@ -1,10 +1,24 @@
 [
   {
+    "id": "MP1471821",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 2,
+    "last_modified": "2026-09-14T17:21:42.767000+00:00"
+  },
+  {
     "id": "MO1471241",
     "status": "investigating",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-09-13T05:18:58.770000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-09-14T17:22:09.617000+00:00"
+  },
+  {
+    "id": "OP1470668",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 3,
+    "last_modified": "2026-09-14T17:55:20.973000+00:00"
   },
   {
     "id": "CP1470554",
@@ -684,19 +698,5 @@
     "is_resolved": true,
     "update_count": 2,
     "last_modified": "2026-07-21T17:53:28.710000+00:00"
-  },
-  {
-    "id": "MP1438577",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 10,
-    "last_modified": "2026-07-27T09:53:04.523000+00:00"
-  },
-  {
-    "id": "MO1434392",
-    "status": "investigationSuspended",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-07-29T00:26:35.170000+00:00"
   }
 ]
