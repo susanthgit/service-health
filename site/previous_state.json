@@ -17,22 +17,22 @@
     "id": "MO1471241",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-09-15T16:12:56.547000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-09-15T19:37:07.463000+00:00"
   },
   {
     "id": "OP1470668",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-09-14T17:55:20.973000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-09-15T17:18:47.630000+00:00"
   },
   {
     "id": "CP1470554",
-    "status": "serviceRestored",
+    "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 8,
-    "last_modified": "2026-09-11T14:24:20.863000+00:00"
+    "update_count": 9,
+    "last_modified": "2026-09-15T18:27:17.167000+00:00"
   },
   {
     "id": "MO1470143",
