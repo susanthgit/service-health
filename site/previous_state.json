@@ -17,8 +17,8 @@
     "id": "MO1471241",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 8,
-    "last_modified": "2026-09-15T22:41:42.067000+00:00"
+    "update_count": 9,
+    "last_modified": "2026-09-16T02:34:48.760000+00:00"
   },
   {
     "id": "OP1470668",
@@ -185,8 +185,8 @@
     "id": "MO1469836",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-09-15T01:01:56.813000+00:00"
+    "update_count": 6,
+    "last_modified": "2026-09-16T01:11:55.897000+00:00"
   },
   {
     "id": "TM1462874",
