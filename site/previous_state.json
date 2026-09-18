@@ -211,10 +211,10 @@
   },
   {
     "id": "MO1469836",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-09-16T19:55:51.350000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 8,
+    "last_modified": "2026-09-17T21:45:18.537000+00:00"
   },
   {
     "id": "TM1462874",
