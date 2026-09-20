@@ -64,10 +64,10 @@
   },
   {
     "id": "MP1473907",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-09-19T04:30:24.873000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 8,
+    "last_modified": "2026-09-20T04:56:41.013000+00:00"
   },
   {
     "id": "MO1471241",
