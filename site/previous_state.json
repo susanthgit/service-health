@@ -1,10 +1,10 @@
 [
   {
     "id": "EX1476802",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-09-22T22:06:14.737000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-09-23T16:27:38.227000+00:00"
   },
   {
     "id": "TM1475580",
