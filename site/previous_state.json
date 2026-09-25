@@ -4,7 +4,7 @@
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 2,
-    "last_modified": "2026-09-24T20:29:11.277000+00:00"
+    "last_modified": "2026-09-24T22:28:38.677000+00:00"
   },
   {
     "id": "MV1478587",
@@ -12,6 +12,13 @@
     "is_resolved": true,
     "update_count": 2,
     "last_modified": "2026-09-24T20:04:02.067000+00:00"
+  },
+  {
+    "id": "OP1478558",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 4,
+    "last_modified": "2026-09-24T23:35:02.033000+00:00"
   },
   {
     "id": "CW1478470",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 6,
     "last_modified": "2026-07-30T17:20:39.733000+00:00"
-  },
-  {
-    "id": "CP1442025",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 8,
-    "last_modified": "2026-07-29T22:06:16.653000+00:00"
   }
 ]
