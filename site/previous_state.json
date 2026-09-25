@@ -24,15 +24,15 @@
     "id": "CW1478470",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-09-24T19:29:54.490000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-09-25T17:40:28.543000+00:00"
   },
   {
     "id": "CP1478444",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-09-24T19:29:52.797000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-09-25T17:40:51.147000+00:00"
   },
   {
     "id": "DZ1478328",
