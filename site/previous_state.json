@@ -1,10 +1,31 @@
 [
   {
+    "id": "CP1482420",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-09-29T20:50:47.570000+00:00"
+  },
+  {
+    "id": "IT1482439",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 3,
+    "last_modified": "2026-09-29T21:16:30.973000+00:00"
+  },
+  {
+    "id": "CP1482212",
+    "status": "investigating",
+    "is_resolved": false,
+    "update_count": 1,
+    "last_modified": "2026-09-29T16:52:38.900000+00:00"
+  },
+  {
     "id": "MO1481173",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-09-28T23:28:21.677000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-09-29T21:57:03.223000+00:00"
   },
   {
     "id": "MV1481028",
@@ -12,20 +33,6 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-09-28T23:22:25.777000+00:00"
-  },
-  {
-    "id": "CP1480924",
-    "status": "falsePositive",
-    "is_resolved": true,
-    "update_count": 2,
-    "last_modified": "2026-09-28T20:22:57.913000+00:00"
-  },
-  {
-    "id": "CW1480927",
-    "status": "falsePositive",
-    "is_resolved": true,
-    "update_count": 2,
-    "last_modified": "2026-09-28T20:19:15.397000+00:00"
   },
   {
     "id": "MO1479564",
@@ -171,8 +178,8 @@
     "id": "MP1471821",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-09-22T22:28:47.010000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-09-29T16:35:01.517000+00:00"
   },
   {
     "id": "MP1473907",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-08-01T08:09:59.053000+00:00"
-  },
-  {
-    "id": "TM1446653",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-08-04T00:08:10.793000+00:00"
   }
 ]
