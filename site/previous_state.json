@@ -8,10 +8,10 @@
   },
   {
     "id": "IT1482439",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-09-29T22:58:59.680000+00:00"
+    "status": "falsePositive",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-09-30T08:15:47.647000+00:00"
   },
   {
     "id": "CP1482212",
