@@ -1,17 +1,24 @@
 [
   {
+    "id": "TM1483625",
+    "status": "investigating",
+    "is_resolved": false,
+    "update_count": 3,
+    "last_modified": "2026-09-30T21:51:17.193000+00:00"
+  },
+  {
     "id": "IT1483380",
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 2,
-    "last_modified": "2026-09-30T15:57:59.880000+00:00"
+    "last_modified": "2026-09-30T17:22:18.260000+00:00"
   },
   {
     "id": "SP1483357",
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 3,
-    "last_modified": "2026-09-30T16:05:33.140000+00:00"
+    "last_modified": "2026-09-30T18:54:44.600000+00:00"
   },
   {
     "id": "CP1482420",
@@ -38,8 +45,8 @@
     "id": "MO1481173",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-09-29T21:57:03.223000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-09-30T16:21:49.257000+00:00"
   },
   {
     "id": "MV1481028",
@@ -84,6 +91,13 @@
     "last_modified": "2026-09-28T19:58:10.047000+00:00"
   },
   {
+    "id": "EX1478331",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 6,
+    "last_modified": "2026-09-30T18:31:47.250000+00:00"
+  },
+  {
     "id": "DZ1478328",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -94,8 +108,8 @@
     "id": "EX1478163",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 14,
-    "last_modified": "2026-09-28T20:28:42.910000+00:00"
+    "update_count": 15,
+    "last_modified": "2026-09-30T20:29:24.530000+00:00"
   },
   {
     "id": "EX1476802",
@@ -684,19 +698,5 @@
     "is_resolved": true,
     "update_count": 4,
     "last_modified": "2026-08-06T18:19:17.557000+00:00"
-  },
-  {
-    "id": "SP1461655",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 10,
-    "last_modified": "2026-08-27T21:58:25.997000+00:00"
-  },
-  {
-    "id": "PB1461484",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 7,
-    "last_modified": "2026-09-02T15:40:41.307000+00:00"
   }
 ]
