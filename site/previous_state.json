@@ -122,8 +122,8 @@
     "id": "EX1478163",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 16,
-    "last_modified": "2026-10-01T21:11:14.950000+00:00"
+    "update_count": 17,
+    "last_modified": "2026-10-02T01:01:13.540000+00:00"
   },
   {
     "id": "EX1476802",
@@ -549,8 +549,8 @@
     "id": "MO1457843",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 3,
-    "last_modified": "2026-09-16T22:07:58.350000+00:00"
+    "update_count": 4,
+    "last_modified": "2026-10-01T22:50:49.103000+00:00"
   },
   {
     "id": "OP1457784",
