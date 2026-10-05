@@ -14,6 +14,13 @@
     "last_modified": "2026-09-30T23:24:57.187000+00:00"
   },
   {
+    "id": "EX1483540",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 5,
+    "last_modified": "2026-10-05T03:15:03.920000+00:00"
+  },
+  {
     "id": "IT1483380",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
@@ -59,8 +66,8 @@
     "id": "TM1483625",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 14,
-    "last_modified": "2026-10-04T23:26:27.047000+00:00"
+    "update_count": 15,
+    "last_modified": "2026-10-05T08:00:16.277000+00:00"
   },
   {
     "id": "MO1479564",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 5,
     "last_modified": "2026-08-13T00:41:16.297000+00:00"
-  },
-  {
-    "id": "MP1452564",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 7,
-    "last_modified": "2026-08-19T17:13:16.087000+00:00"
   }
 ]
