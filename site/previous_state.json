@@ -1,5 +1,19 @@
 [
   {
+    "id": "EX1491694",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-10-08T18:40:27.403000+00:00"
+  },
+  {
+    "id": "CP1491697",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 4,
+    "last_modified": "2026-10-08T17:41:17.730000+00:00"
+  },
+  {
     "id": "DZ1490573",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -31,15 +45,15 @@
     "id": "TM1489450",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-10-07T16:46:15.777000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-10-08T14:22:58.873000+00:00"
   },
   {
     "id": "SP1489449",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-10-08T09:53:06.627000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-10-08T15:08:56.737000+00:00"
   },
   {
     "id": "MO1489432",
@@ -141,10 +155,10 @@
   },
   {
     "id": "TM1489909",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 8,
-    "last_modified": "2026-10-08T01:42:05.897000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 9,
+    "last_modified": "2026-10-08T16:16:25.957000+00:00"
   },
   {
     "id": "PL1490629",
@@ -155,8 +169,8 @@
   },
   {
     "id": "EX1483619",
-    "status": "serviceDegradation",
-    "is_resolved": false,
+    "status": "serviceRestored",
+    "is_resolved": true,
     "update_count": 7,
     "last_modified": "2026-10-07T20:36:50.687000+00:00"
   },
@@ -684,19 +698,5 @@
     "is_resolved": true,
     "update_count": 4,
     "last_modified": "2026-08-18T07:17:37.583000+00:00"
-  },
-  {
-    "id": "CP1456911",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-08-18T12:14:39.080000+00:00"
-  },
-  {
-    "id": "WP1466588",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 3,
-    "last_modified": "2026-09-03T18:17:24.890000+00:00"
   }
 ]
