@@ -52,8 +52,8 @@
     "id": "DZ1489394",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-10-07T16:04:27.053000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-10-08T05:51:24.203000+00:00"
   },
   {
     "id": "PB1488968",
@@ -143,8 +143,8 @@
     "id": "TM1489909",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-10-07T21:59:05.090000+00:00"
+    "update_count": 8,
+    "last_modified": "2026-10-08T01:42:05.897000+00:00"
   },
   {
     "id": "PL1490629",
