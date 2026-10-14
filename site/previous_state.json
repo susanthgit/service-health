@@ -1,12 +1,5 @@
 [
   {
-    "id": "IT1506313",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-10-13T21:00:08.043000+00:00"
-  },
-  {
     "id": "CW1506243",
     "status": "falsePositive",
     "is_resolved": true,
@@ -25,7 +18,7 @@
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 11,
-    "last_modified": "2026-10-13T18:54:22.723000+00:00"
+    "last_modified": "2026-10-14T00:36:18.267000+00:00"
   },
   {
     "id": "PB1505699",
@@ -96,6 +89,13 @@
     "is_resolved": true,
     "update_count": 5,
     "last_modified": "2026-10-07T20:47:50.730000+00:00"
+  },
+  {
+    "id": "IT1506313",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-10-13T21:58:07.393000+00:00"
   },
   {
     "id": "CP1489980",
