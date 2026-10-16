@@ -43,10 +43,10 @@
   },
   {
     "id": "MO1505952",
-    "status": "serviceRestored",
+    "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 11,
-    "last_modified": "2026-10-14T00:36:18.267000+00:00"
+    "update_count": 12,
+    "last_modified": "2026-10-15T23:43:53.033000+00:00"
   },
   {
     "id": "MO1506255",
@@ -94,8 +94,8 @@
     "id": "TM1492872",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 11,
-    "last_modified": "2026-10-15T18:01:28.763000+00:00"
+    "update_count": 12,
+    "last_modified": "2026-10-15T23:29:12.140000+00:00"
   },
   {
     "id": "TM1492711",
