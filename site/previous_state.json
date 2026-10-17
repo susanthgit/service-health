@@ -22,10 +22,10 @@
   },
   {
     "id": "CW1507178",
-    "status": "serviceRestored",
+    "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 5,
-    "last_modified": "2026-10-14T10:36:04.610000+00:00"
+    "update_count": 6,
+    "last_modified": "2026-10-16T21:33:10.910000+00:00"
   },
   {
     "id": "TM1508612",
@@ -78,10 +78,10 @@
   },
   {
     "id": "SP1503038",
-    "status": "serviceRestored",
+    "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 8,
-    "last_modified": "2026-10-14T17:52:48.280000+00:00"
+    "update_count": 9,
+    "last_modified": "2026-10-16T23:40:59.403000+00:00"
   },
   {
     "id": "OP1505951",
