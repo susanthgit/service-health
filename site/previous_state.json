@@ -8,10 +8,10 @@
   },
   {
     "id": "TM1514781",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-10-19T22:16:26.567000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-10-20T01:22:02.627000+00:00"
   },
   {
     "id": "CW1515013",
@@ -53,7 +53,7 @@
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 5,
-    "last_modified": "2026-10-19T22:53:03.987000+00:00"
+    "last_modified": "2026-10-20T02:13:29.810000+00:00"
   },
   {
     "id": "TM1509890",
