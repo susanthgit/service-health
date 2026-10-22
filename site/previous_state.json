@@ -3,8 +3,8 @@
     "id": "DZ1519662",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-10-21T22:18:06.513000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-10-22T01:23:17.647000+00:00"
   },
   {
     "id": "TM1519312",
@@ -31,15 +31,15 @@
     "id": "SP1518858",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-10-21T22:49:01.727000+00:00"
+    "update_count": 6,
+    "last_modified": "2026-10-22T02:59:45.377000+00:00"
   },
   {
     "id": "CP1519553",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-10-21T21:20:25.187000+00:00"
+    "update_count": 2,
+    "last_modified": "2026-10-22T00:38:51.700000+00:00"
   },
   {
     "id": "TM1517449",
@@ -199,8 +199,8 @@
     "id": "SP1503038",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 9,
-    "last_modified": "2026-10-16T23:40:59.403000+00:00"
+    "update_count": 10,
+    "last_modified": "2026-10-21T23:54:51.530000+00:00"
   },
   {
     "id": "OP1505951",
