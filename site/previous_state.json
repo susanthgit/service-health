@@ -1,17 +1,17 @@
 [
   {
+    "id": "WP1520917",
+    "status": "falsePositive",
+    "is_resolved": true,
+    "update_count": 2,
+    "last_modified": "2026-10-22T19:19:00.243000+00:00"
+  },
+  {
     "id": "DZ1519662",
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 7,
     "last_modified": "2026-10-22T13:16:27.047000+00:00"
-  },
-  {
-    "id": "TM1519312",
-    "status": "falsePositive",
-    "is_resolved": true,
-    "update_count": 2,
-    "last_modified": "2026-10-21T20:40:15.333000+00:00"
   },
   {
     "id": "TM1519335",
@@ -36,24 +36,17 @@
   },
   {
     "id": "SP1518858",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 9,
-    "last_modified": "2026-10-22T15:58:05.523000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 10,
+    "last_modified": "2026-10-22T19:54:57.763000+00:00"
   },
   {
     "id": "CP1519553",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-10-22T00:38:51.700000+00:00"
-  },
-  {
-    "id": "TM1517449",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-10-21T20:18:05.480000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-10-22T18:52:55.117000+00:00"
   },
   {
     "id": "CP1517145",
@@ -115,8 +108,8 @@
     "id": "CP1510883",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-10-19T22:22:58.757000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-10-22T18:06:35.293000+00:00"
   },
   {
     "id": "CP1515501",
@@ -469,6 +462,13 @@
     "last_modified": "2026-09-28T19:58:10.047000+00:00"
   },
   {
+    "id": "TM1517449",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 3,
+    "last_modified": "2026-10-22T18:43:14.783000+00:00"
+  },
+  {
     "id": "DZ1478328",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -640,8 +640,8 @@
     "id": "EX1479349",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 15,
-    "last_modified": "2026-10-19T20:28:25.043000+00:00"
+    "update_count": 16,
+    "last_modified": "2026-10-22T18:45:39.830000+00:00"
   },
   {
     "id": "PB1474132",
