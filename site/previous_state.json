@@ -1,17 +1,10 @@
 [
   {
     "id": "DZ1519662",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-10-22T08:41:46.043000+00:00"
-  },
-  {
-    "id": "TM1519335",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-10-22T10:28:03.327000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-10-22T13:16:27.047000+00:00"
   },
   {
     "id": "TM1519312",
@@ -19,6 +12,13 @@
     "is_resolved": true,
     "update_count": 2,
     "last_modified": "2026-10-21T20:40:15.333000+00:00"
+  },
+  {
+    "id": "TM1519335",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-10-22T16:50:05.797000+00:00"
   },
   {
     "id": "CP1519162",
@@ -38,8 +38,8 @@
     "id": "SP1518858",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-10-22T07:50:47.040000+00:00"
+    "update_count": 9,
+    "last_modified": "2026-10-22T15:58:05.523000+00:00"
   },
   {
     "id": "CP1519553",
@@ -150,8 +150,8 @@
     "id": "CW1507178",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 6,
-    "last_modified": "2026-10-16T21:33:10.910000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-10-22T13:19:08.590000+00:00"
   },
   {
     "id": "TM1508612",
@@ -388,8 +388,8 @@
     "id": "MO1481173",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 18,
-    "last_modified": "2026-10-21T19:18:34.873000+00:00"
+    "update_count": 19,
+    "last_modified": "2026-10-22T14:52:37.330000+00:00"
   },
   {
     "id": "MV1481028",
@@ -661,8 +661,8 @@
     "id": "MO1501829",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 8,
-    "last_modified": "2026-10-20T17:23:54.307000+00:00"
+    "update_count": 9,
+    "last_modified": "2026-10-22T16:50:37.137000+00:00"
   },
   {
     "id": "MO1469271",
