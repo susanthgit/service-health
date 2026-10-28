@@ -1,24 +1,10 @@
 [
   {
-    "id": "DZ1528961",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-10-28T16:04:38.547000+00:00"
-  },
-  {
     "id": "TM1528936",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 1,
-    "last_modified": "2026-10-28T15:31:30.083000+00:00"
-  },
-  {
-    "id": "PB1528889",
-    "status": "serviceDegradation",
-    "is_resolved": false,
+    "status": "serviceRestored",
+    "is_resolved": true,
     "update_count": 2,
-    "last_modified": "2026-10-28T16:13:33.953000+00:00"
+    "last_modified": "2026-10-28T19:18:45.373000+00:00"
   },
   {
     "id": "CP1528503",
@@ -29,10 +15,10 @@
   },
   {
     "id": "CP1528420",
-    "status": "investigating",
+    "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-10-28T05:52:06.420000+00:00"
+    "update_count": 3,
+    "last_modified": "2026-10-28T19:46:21.680000+00:00"
   },
   {
     "id": "CP1528078",
@@ -42,11 +28,18 @@
     "last_modified": "2026-10-28T01:21:37.877000+00:00"
   },
   {
+    "id": "PB1528889",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 3,
+    "last_modified": "2026-10-28T22:21:47.540000+00:00"
+  },
+  {
     "id": "CP1527498",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-10-27T18:40:30.610000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-10-28T18:52:37.863000+00:00"
   },
   {
     "id": "EX1527500",
@@ -80,8 +73,8 @@
     "id": "MO1522731",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-10-27T15:43:04.377000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-10-28T16:52:02.107000+00:00"
   },
   {
     "id": "MV1522708",
@@ -168,6 +161,13 @@
     "last_modified": "2026-10-19T14:33:34.550000+00:00"
   },
   {
+    "id": "DZ1528961",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 3,
+    "last_modified": "2026-10-28T19:45:23.007000+00:00"
+  },
+  {
     "id": "OP1514821",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
@@ -178,8 +178,8 @@
     "id": "CP1510883",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-10-22T18:06:35.293000+00:00"
+    "update_count": 6,
+    "last_modified": "2026-10-28T18:02:47.867000+00:00"
   },
   {
     "id": "CP1515501",
@@ -367,8 +367,8 @@
     "id": "TM1489031",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-10-23T21:02:43.733000+00:00"
+    "update_count": 7,
+    "last_modified": "2026-10-28T21:58:11.063000+00:00"
   },
   {
     "id": "PB1488968",
@@ -456,10 +456,10 @@
   },
   {
     "id": "MO1481173",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 22,
-    "last_modified": "2026-10-27T14:15:49.303000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 23,
+    "last_modified": "2026-10-28T20:44:13.620000+00:00"
   },
   {
     "id": "MV1481028",
