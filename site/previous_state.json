@@ -32,7 +32,7 @@
     "status": "serviceDegradation",
     "is_resolved": false,
     "update_count": 6,
-    "last_modified": "2026-10-30T23:57:42.127000+00:00"
+    "last_modified": "2026-11-02T15:35:15.747000+00:00"
   },
   {
     "id": "EX1528992",
@@ -402,8 +402,8 @@
     "id": "MO1489432",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 14,
-    "last_modified": "2026-10-30T10:56:52.517000+00:00"
+    "update_count": 15,
+    "last_modified": "2026-11-02T10:40:45.750000+00:00"
   },
   {
     "id": "DZ1489394",
