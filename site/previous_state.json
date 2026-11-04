@@ -113,10 +113,10 @@
   },
   {
     "id": "CP1527498",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 6,
-    "last_modified": "2026-10-29T19:07:36.680000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 7,
+    "last_modified": "2026-11-04T17:26:44.253000+00:00"
   },
   {
     "id": "EX1527500",
