@@ -1,5 +1,12 @@
 [
   {
+    "id": "CP1540142",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 6,
+    "last_modified": "2026-11-05T22:08:59.233000+00:00"
+  },
+  {
     "id": "OO1537414",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -416,8 +423,8 @@
     "id": "EX1490154",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 21,
-    "last_modified": "2026-11-02T20:11:30.973000+00:00"
+    "update_count": 22,
+    "last_modified": "2026-11-05T20:11:16.480000+00:00"
   },
   {
     "id": "TM1506205",
@@ -666,10 +673,10 @@
   },
   {
     "id": "EX1478331",
-    "status": "serviceRestored",
+    "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 11,
-    "last_modified": "2026-10-02T17:47:41.623000+00:00"
+    "update_count": 13,
+    "last_modified": "2026-11-05T22:26:22.733000+00:00"
   },
   {
     "id": "EX1476802",
@@ -691,12 +698,5 @@
     "is_resolved": true,
     "update_count": 4,
     "last_modified": "2026-09-28T21:43:16.990000+00:00"
-  },
-  {
-    "id": "TM1475580",
-    "status": "postIncidentReviewPublished",
-    "is_resolved": true,
-    "update_count": 7,
-    "last_modified": "2026-09-29T00:12:25.753000+00:00"
   }
 ]
