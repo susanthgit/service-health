@@ -56,13 +56,6 @@
     "last_modified": "2026-11-02T02:31:34.877000+00:00"
   },
   {
-    "id": "CW1530567",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 13,
-    "last_modified": "2026-11-04T00:38:30.383000+00:00"
-  },
-  {
     "id": "EX1532233",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -290,8 +283,15 @@
     "id": "MP1507695",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-10-29T05:11:25.123000+00:00"
+    "update_count": 5,
+    "last_modified": "2026-11-05T05:58:17.797000+00:00"
+  },
+  {
+    "id": "CW1530567",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 14,
+    "last_modified": "2026-11-05T01:36:46.373000+00:00"
   },
   {
     "id": "PB1508905",
