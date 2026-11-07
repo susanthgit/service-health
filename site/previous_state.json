@@ -73,8 +73,8 @@
     "id": "MO1532211",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 7,
-    "last_modified": "2026-11-06T00:33:16.590000+00:00"
+    "update_count": 8,
+    "last_modified": "2026-11-07T01:16:47.833000+00:00"
   },
   {
     "id": "EX1532233",
@@ -309,10 +309,10 @@
   },
   {
     "id": "CW1530567",
-    "status": "serviceRestored",
+    "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 14,
-    "last_modified": "2026-11-05T01:36:46.373000+00:00"
+    "update_count": 15,
+    "last_modified": "2026-11-07T00:20:59.930000+00:00"
   },
   {
     "id": "PB1508905",
