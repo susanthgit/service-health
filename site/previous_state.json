@@ -3,15 +3,29 @@
     "id": "MO1550821",
     "status": "serviceDegradation",
     "is_resolved": false,
-    "update_count": 10,
-    "last_modified": "2026-11-12T22:58:28.613000+00:00"
+    "update_count": 21,
+    "last_modified": "2026-11-13T06:14:40.893000+00:00"
+  },
+  {
+    "id": "CR1551339",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 1,
+    "last_modified": "2026-11-13T06:07:53.263000+00:00"
+  },
+  {
+    "id": "MX1551341",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 1,
+    "last_modified": "2026-11-13T06:07:55.220000+00:00"
   },
   {
     "id": "CR1550885",
-    "status": "restoringService",
-    "is_resolved": false,
-    "update_count": 4,
-    "last_modified": "2026-11-12T22:12:21.663000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 6,
+    "last_modified": "2026-11-13T01:25:41.990000+00:00"
   },
   {
     "id": "TM1550488",
@@ -56,18 +70,18 @@
     "last_modified": "2026-11-12T19:20:00.283000+00:00"
   },
   {
-    "id": "OO1547737",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 2,
-    "last_modified": "2026-11-11T08:40:57.273000+00:00"
-  },
-  {
     "id": "MO1547527",
     "status": "serviceRestored",
     "is_resolved": true,
     "update_count": 5,
     "last_modified": "2026-11-11T05:33:06.830000+00:00"
+  },
+  {
+    "id": "OO1547737",
+    "status": "serviceDegradation",
+    "is_resolved": false,
+    "update_count": 2,
+    "last_modified": "2026-11-13T05:55:08.917000+00:00"
   },
   {
     "id": "EX1545193",
@@ -87,8 +101,8 @@
     "id": "CP1540142",
     "status": "postIncidentReviewPublished",
     "is_resolved": true,
-    "update_count": 7,
-    "last_modified": "2026-11-10T05:40:47.933000+00:00"
+    "update_count": 8,
+    "last_modified": "2026-11-13T02:34:14.080000+00:00"
   },
   {
     "id": "CP1540672",
@@ -684,19 +698,5 @@
     "is_resolved": true,
     "update_count": 3,
     "last_modified": "2026-09-28T23:22:25.777000+00:00"
-  },
-  {
-    "id": "TM1489031",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 8,
-    "last_modified": "2026-11-04T22:39:10.823000+00:00"
-  },
-  {
-    "id": "TM1483625",
-    "status": "serviceRestored",
-    "is_resolved": true,
-    "update_count": 17,
-    "last_modified": "2026-10-06T14:49:23.387000+00:00"
   }
 ]
