@@ -7,13 +7,6 @@
     "last_modified": "2026-11-13T21:38:18.117000+00:00"
   },
   {
-    "id": "MO1550821",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 35,
-    "last_modified": "2026-11-13T22:00:22.377000+00:00"
-  },
-  {
     "id": "CR1551339",
     "status": "serviceRestored",
     "is_resolved": true,
@@ -40,6 +33,13 @@
     "is_resolved": true,
     "update_count": 6,
     "last_modified": "2026-11-12T17:08:41.617000+00:00"
+  },
+  {
+    "id": "MO1550821",
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 37,
+    "last_modified": "2026-11-14T04:17:52.303000+00:00"
   },
   {
     "id": "OP1549991",
