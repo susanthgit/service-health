@@ -540,10 +540,10 @@
   },
   {
     "id": "CP1528078",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 5,
-    "last_modified": "2026-11-16T23:13:30.670000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 6,
+    "last_modified": "2026-11-17T22:34:34.630000+00:00"
   },
   {
     "id": "TM1504581",
