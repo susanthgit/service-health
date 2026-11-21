@@ -15,10 +15,10 @@
   },
   {
     "id": "EX1561765",
-    "status": "serviceDegradation",
-    "is_resolved": false,
-    "update_count": 11,
-    "last_modified": "2026-11-20T23:40:44.950000+00:00"
+    "status": "serviceRestored",
+    "is_resolved": true,
+    "update_count": 15,
+    "last_modified": "2026-11-21T08:55:46.037000+00:00"
   },
   {
     "id": "CW1558072",
